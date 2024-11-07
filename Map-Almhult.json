@@ -16,8 +16,8 @@
       "income": 94600,
       "monthlyExpenses": 14900,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Allan Jacobson",
@@ -32,8 +32,8 @@
       "income": 74700,
       "monthlyExpenses": 9900,
       "numberOfKids": 4,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Shane Turner",
@@ -48,8 +48,8 @@
       "income": 3900,
       "monthlyExpenses": 61100,
       "numberOfKids": 4,
-      "mortgage": 4950400,
-      "hasStudentLoans": true
+      "homeMortgage": 4950400,
+      "hasStudentLoan": true
     },
     {
       "name": "Debbie Schaden",
@@ -64,8 +64,8 @@
       "income": 87000,
       "monthlyExpenses": 16400,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Paulette Connelly",
@@ -80,8 +80,8 @@
       "income": 61900,
       "monthlyExpenses": 8100,
       "numberOfKids": 4,
-      "mortgage": 4865200,
-      "hasStudentLoans": false
+      "homeMortgage": 4865200,
+      "hasStudentLoan": false
     },
     {
       "name": "Travis Kub",
@@ -96,8 +96,8 @@
       "income": 32200,
       "monthlyExpenses": 6900,
       "numberOfKids": 1,
-      "mortgage": 2818300,
-      "hasStudentLoans": true
+      "homeMortgage": 2818300,
+      "hasStudentLoan": true
     },
     {
       "name": "Courtney Harvey",
@@ -112,8 +112,8 @@
       "income": 22600,
       "monthlyExpenses": 9900,
       "numberOfKids": 0,
-      "mortgage": 4579500,
-      "hasStudentLoans": false
+      "homeMortgage": 4579500,
+      "hasStudentLoan": false
     },
     {
       "name": "Ramon Von",
@@ -128,8 +128,8 @@
       "income": 11600,
       "monthlyExpenses": 154500,
       "numberOfKids": 0,
-      "mortgage": 8905900,
-      "hasStudentLoans": true
+      "homeMortgage": 8905900,
+      "hasStudentLoan": true
     },
     {
       "name": "Erma Daniel",
@@ -144,8 +144,8 @@
       "income": 74200,
       "monthlyExpenses": 7600,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Hugo Runolfsdottir",
@@ -160,8 +160,8 @@
       "income": 31800,
       "monthlyExpenses": 12300,
       "numberOfKids": 1,
-      "mortgage": 5139500,
-      "hasStudentLoans": true
+      "homeMortgage": 5139500,
+      "hasStudentLoan": true
     },
     {
       "name": "Luis Quigley",
@@ -176,8 +176,8 @@
       "income": 4400,
       "monthlyExpenses": 32100,
       "numberOfKids": 3,
-      "mortgage": 9469600,
-      "hasStudentLoans": true
+      "homeMortgage": 9469600,
+      "hasStudentLoan": true
     },
     {
       "name": "Antoinette Robel",
@@ -192,8 +192,8 @@
       "income": 3400,
       "monthlyExpenses": 83400,
       "numberOfKids": 1,
-      "mortgage": 9882200,
-      "hasStudentLoans": true
+      "homeMortgage": 9882200,
+      "hasStudentLoan": true
     },
     {
       "name": "Naomi O\u0027Keefe",
@@ -208,8 +208,8 @@
       "income": 35500,
       "monthlyExpenses": 21000,
       "numberOfKids": 5,
-      "mortgage": 8544600,
-      "hasStudentLoans": false
+      "homeMortgage": 8544600,
+      "hasStudentLoan": false
     },
     {
       "name": "Gary Kreiger",
@@ -224,8 +224,8 @@
       "income": 4900,
       "monthlyExpenses": 101200,
       "numberOfKids": 0,
-      "mortgage": 341400,
-      "hasStudentLoans": false
+      "homeMortgage": 341400,
+      "hasStudentLoan": false
     },
     {
       "name": "Peggy Fahey",
@@ -240,8 +240,8 @@
       "income": 31300,
       "monthlyExpenses": 7200,
       "numberOfKids": 2,
-      "mortgage": 5917600,
-      "hasStudentLoans": false
+      "homeMortgage": 5917600,
+      "hasStudentLoan": false
     },
     {
       "name": "Lynne Price",
@@ -256,8 +256,8 @@
       "income": 71200,
       "monthlyExpenses": 18400,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Julian Corkery",
@@ -272,8 +272,8 @@
       "income": 19000,
       "monthlyExpenses": 8900,
       "numberOfKids": 0,
-      "mortgage": 5786800,
-      "hasStudentLoans": false
+      "homeMortgage": 5786800,
+      "hasStudentLoan": false
     },
     {
       "name": "Norman Muller",
@@ -288,8 +288,8 @@
       "income": 20600,
       "monthlyExpenses": 17500,
       "numberOfKids": 4,
-      "mortgage": 4243200,
-      "hasStudentLoans": true
+      "homeMortgage": 4243200,
+      "hasStudentLoan": true
     },
     {
       "name": "Lori Mosciski",
@@ -304,8 +304,8 @@
       "income": 82000,
       "monthlyExpenses": 5800,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Sherri Kertzmann",
@@ -320,8 +320,8 @@
       "income": 18800,
       "monthlyExpenses": 12600,
       "numberOfKids": 4,
-      "mortgage": 2909300,
-      "hasStudentLoans": false
+      "homeMortgage": 2909300,
+      "hasStudentLoan": false
     },
     {
       "name": "Wilma Doyle",
@@ -336,8 +336,8 @@
       "income": 77500,
       "monthlyExpenses": 14400,
       "numberOfKids": 3,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Wanda McLaughlin",
@@ -352,8 +352,8 @@
       "income": 3400,
       "monthlyExpenses": 33100,
       "numberOfKids": 1,
-      "mortgage": 9205700,
-      "hasStudentLoans": true
+      "homeMortgage": 9205700,
+      "hasStudentLoan": true
     },
     {
       "name": "Eugene Larkin",
@@ -368,8 +368,8 @@
       "income": 33900,
       "monthlyExpenses": 11800,
       "numberOfKids": 0,
-      "mortgage": 2119400,
-      "hasStudentLoans": true
+      "homeMortgage": 2119400,
+      "hasStudentLoan": true
     },
     {
       "name": "Connie Leannon",
@@ -384,8 +384,8 @@
       "income": 42000,
       "monthlyExpenses": 28300,
       "numberOfKids": 5,
-      "mortgage": 6007100,
-      "hasStudentLoans": true
+      "homeMortgage": 6007100,
+      "hasStudentLoan": true
     },
     {
       "name": "Jody Lehner",
@@ -400,8 +400,8 @@
       "income": 16500,
       "monthlyExpenses": 7700,
       "numberOfKids": 0,
-      "mortgage": 944700,
-      "hasStudentLoans": true
+      "homeMortgage": 944700,
+      "hasStudentLoan": true
     },
     {
       "name": "Patrick Hickle",
@@ -416,8 +416,8 @@
       "income": 4100,
       "monthlyExpenses": 62200,
       "numberOfKids": 0,
-      "mortgage": 7913600,
-      "hasStudentLoans": true
+      "homeMortgage": 7913600,
+      "hasStudentLoan": true
     },
     {
       "name": "Sheldon Wilderman",
@@ -432,8 +432,8 @@
       "income": 22600,
       "monthlyExpenses": 2600,
       "numberOfKids": 2,
-      "mortgage": 8328600,
-      "hasStudentLoans": false
+      "homeMortgage": 8328600,
+      "hasStudentLoan": false
     },
     {
       "name": "Christian Rau",
@@ -448,8 +448,8 @@
       "income": 4400,
       "monthlyExpenses": 45700,
       "numberOfKids": 1,
-      "mortgage": 2703100,
-      "hasStudentLoans": true
+      "homeMortgage": 2703100,
+      "hasStudentLoan": true
     },
     {
       "name": "Stewart Roob",
@@ -464,8 +464,8 @@
       "income": 41100,
       "monthlyExpenses": 59800,
       "numberOfKids": 4,
-      "mortgage": 2682200,
-      "hasStudentLoans": true
+      "homeMortgage": 2682200,
+      "hasStudentLoan": true
     },
     {
       "name": "Angel Howe",
@@ -480,8 +480,8 @@
       "income": 17200,
       "monthlyExpenses": 6800,
       "numberOfKids": 4,
-      "mortgage": 9369600,
-      "hasStudentLoans": true
+      "homeMortgage": 9369600,
+      "hasStudentLoan": true
     },
     {
       "name": "Spencer Herzog",
@@ -496,8 +496,8 @@
       "income": 47100,
       "monthlyExpenses": 9000,
       "numberOfKids": 0,
-      "mortgage": 3072100,
-      "hasStudentLoans": false
+      "homeMortgage": 3072100,
+      "hasStudentLoan": false
     },
     {
       "name": "Ernesto Bradtke",
@@ -512,8 +512,8 @@
       "income": 30800,
       "monthlyExpenses": 12400,
       "numberOfKids": 2,
-      "mortgage": 732600,
-      "hasStudentLoans": true
+      "homeMortgage": 732600,
+      "hasStudentLoan": true
     },
     {
       "name": "Glenn Predovic",
@@ -528,8 +528,8 @@
       "income": 59200,
       "monthlyExpenses": 6500,
       "numberOfKids": 3,
-      "mortgage": 5980500,
-      "hasStudentLoans": true
+      "homeMortgage": 5980500,
+      "hasStudentLoan": true
     },
     {
       "name": "Belinda Weimann",
@@ -544,8 +544,8 @@
       "income": 75300,
       "monthlyExpenses": 10700,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Peter Hoeger",
@@ -560,8 +560,8 @@
       "income": 1300,
       "monthlyExpenses": 106400,
       "numberOfKids": 0,
-      "mortgage": 3997700,
-      "hasStudentLoans": true
+      "homeMortgage": 3997700,
+      "hasStudentLoan": true
     },
     {
       "name": "Kim Wyman",
@@ -576,8 +576,8 @@
       "income": 33400,
       "monthlyExpenses": 10800,
       "numberOfKids": 3,
-      "mortgage": 1284300,
-      "hasStudentLoans": false
+      "homeMortgage": 1284300,
+      "hasStudentLoan": false
     },
     {
       "name": "Sue Gibson",
@@ -592,8 +592,8 @@
       "income": 80600,
       "monthlyExpenses": 18200,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Johnny Hilpert",
@@ -608,8 +608,8 @@
       "income": 16500,
       "monthlyExpenses": 61700,
       "numberOfKids": 0,
-      "mortgage": 3885600,
-      "hasStudentLoans": true
+      "homeMortgage": 3885600,
+      "hasStudentLoan": true
     },
     {
       "name": "Daniel O\u0027Reilly",
@@ -624,8 +624,8 @@
       "income": 5000,
       "monthlyExpenses": 98600,
       "numberOfKids": 1,
-      "mortgage": 6779800,
-      "hasStudentLoans": true
+      "homeMortgage": 6779800,
+      "hasStudentLoan": true
     },
     {
       "name": "Levi Lehner",
@@ -640,8 +640,8 @@
       "income": 86000,
       "monthlyExpenses": 12200,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Sally Stark",
@@ -656,8 +656,8 @@
       "income": 23300,
       "monthlyExpenses": 108900,
       "numberOfKids": 0,
-      "mortgage": 92900,
-      "hasStudentLoans": false
+      "homeMortgage": 92900,
+      "hasStudentLoan": false
     },
     {
       "name": "Melanie Padberg",
@@ -672,8 +672,8 @@
       "income": 54600,
       "monthlyExpenses": 8400,
       "numberOfKids": 5,
-      "mortgage": 3028800,
-      "hasStudentLoans": true
+      "homeMortgage": 3028800,
+      "hasStudentLoan": true
     },
     {
       "name": "Leah Cartwright",
@@ -688,8 +688,8 @@
       "income": 1400,
       "monthlyExpenses": 30600,
       "numberOfKids": 1,
-      "mortgage": 9900700,
-      "hasStudentLoans": false
+      "homeMortgage": 9900700,
+      "hasStudentLoan": false
     },
     {
       "name": "Lana Grant",
@@ -704,8 +704,8 @@
       "income": 61300,
       "monthlyExpenses": 5200,
       "numberOfKids": 0,
-      "mortgage": 6175400,
-      "hasStudentLoans": true
+      "homeMortgage": 6175400,
+      "hasStudentLoan": true
     },
     {
       "name": "Debbie Runolfsson",
@@ -720,8 +720,8 @@
       "income": 12400,
       "monthlyExpenses": 26700,
       "numberOfKids": 0,
-      "mortgage": 7208500,
-      "hasStudentLoans": true
+      "homeMortgage": 7208500,
+      "hasStudentLoan": true
     },
     {
       "name": "Bradley Farrell",
@@ -736,8 +736,8 @@
       "income": 1600,
       "monthlyExpenses": 111100,
       "numberOfKids": 5,
-      "mortgage": 1279200,
-      "hasStudentLoans": false
+      "homeMortgage": 1279200,
+      "hasStudentLoan": false
     },
     {
       "name": "Vanessa Mertz",
@@ -752,8 +752,8 @@
       "income": 42000,
       "monthlyExpenses": 58200,
       "numberOfKids": 0,
-      "mortgage": 6722600,
-      "hasStudentLoans": true
+      "homeMortgage": 6722600,
+      "hasStudentLoan": true
     },
     {
       "name": "Marco Dickens",
@@ -768,8 +768,8 @@
       "income": 65000,
       "monthlyExpenses": 27900,
       "numberOfKids": 1,
-      "mortgage": 4165000,
-      "hasStudentLoans": false
+      "homeMortgage": 4165000,
+      "hasStudentLoan": false
     },
     {
       "name": "Terence Streich",
@@ -784,8 +784,8 @@
       "income": 34500,
       "monthlyExpenses": 20200,
       "numberOfKids": 0,
-      "mortgage": 4947600,
-      "hasStudentLoans": false
+      "homeMortgage": 4947600,
+      "hasStudentLoan": false
     },
     {
       "name": "Christy Schmeler",
@@ -800,8 +800,8 @@
       "income": 26500,
       "monthlyExpenses": 25200,
       "numberOfKids": 0,
-      "mortgage": 8665800,
-      "hasStudentLoans": true
+      "homeMortgage": 8665800,
+      "hasStudentLoan": true
     },
     {
       "name": "Bradley Sauer",
@@ -816,8 +816,8 @@
       "income": 48600,
       "monthlyExpenses": 25100,
       "numberOfKids": 0,
-      "mortgage": 3052700,
-      "hasStudentLoans": false
+      "homeMortgage": 3052700,
+      "hasStudentLoan": false
     },
     {
       "name": "Lee Heaney",
@@ -832,8 +832,8 @@
       "income": 1900,
       "monthlyExpenses": 30600,
       "numberOfKids": 1,
-      "mortgage": 8765300,
-      "hasStudentLoans": false
+      "homeMortgage": 8765300,
+      "hasStudentLoan": false
     },
     {
       "name": "Cathy Ziemann",
@@ -848,8 +848,8 @@
       "income": 87900,
       "monthlyExpenses": 13100,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Alison Rice",
@@ -864,8 +864,8 @@
       "income": 15100,
       "monthlyExpenses": 140300,
       "numberOfKids": 1,
-      "mortgage": 8059400,
-      "hasStudentLoans": false
+      "homeMortgage": 8059400,
+      "hasStudentLoan": false
     },
     {
       "name": "Lisa Braun",
@@ -880,8 +880,8 @@
       "income": 43600,
       "monthlyExpenses": 29400,
       "numberOfKids": 2,
-      "mortgage": 9973200,
-      "hasStudentLoans": false
+      "homeMortgage": 9973200,
+      "hasStudentLoan": false
     },
     {
       "name": "Wayne Carter",
@@ -896,8 +896,8 @@
       "income": 41200,
       "monthlyExpenses": 1500,
       "numberOfKids": 1,
-      "mortgage": 9453900,
-      "hasStudentLoans": false
+      "homeMortgage": 9453900,
+      "hasStudentLoan": false
     },
     {
       "name": "Ivan Littel",
@@ -912,8 +912,8 @@
       "income": 66200,
       "monthlyExpenses": 19900,
       "numberOfKids": 1,
-      "mortgage": 3510200,
-      "hasStudentLoans": true
+      "homeMortgage": 3510200,
+      "hasStudentLoan": true
     },
     {
       "name": "Chelsea Romaguera",
@@ -928,8 +928,8 @@
       "income": 90300,
       "monthlyExpenses": 17500,
       "numberOfKids": 3,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Noel Wolff",
@@ -944,8 +944,8 @@
       "income": 94900,
       "monthlyExpenses": 9500,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Tony Hintz",
@@ -960,8 +960,8 @@
       "income": 1200,
       "monthlyExpenses": 16200,
       "numberOfKids": 5,
-      "mortgage": 5628900,
-      "hasStudentLoans": false
+      "homeMortgage": 5628900,
+      "hasStudentLoan": false
     },
     {
       "name": "Miriam Kessler",
@@ -976,8 +976,8 @@
       "income": 63700,
       "monthlyExpenses": 23400,
       "numberOfKids": 0,
-      "mortgage": 6777300,
-      "hasStudentLoans": false
+      "homeMortgage": 6777300,
+      "hasStudentLoan": false
     },
     {
       "name": "Shari Cummerata",
@@ -992,8 +992,8 @@
       "income": 1100,
       "monthlyExpenses": 76900,
       "numberOfKids": 5,
-      "mortgage": 9586100,
-      "hasStudentLoans": false
+      "homeMortgage": 9586100,
+      "hasStudentLoan": false
     },
     {
       "name": "Helen Klein",
@@ -1008,8 +1008,8 @@
       "income": 14100,
       "monthlyExpenses": 16100,
       "numberOfKids": 3,
-      "mortgage": 6112400,
-      "hasStudentLoans": true
+      "homeMortgage": 6112400,
+      "hasStudentLoan": true
     },
     {
       "name": "Doyle Hilpert",
@@ -1024,8 +1024,8 @@
       "income": 34100,
       "monthlyExpenses": 81600,
       "numberOfKids": 0,
-      "mortgage": 6816300,
-      "hasStudentLoans": true
+      "homeMortgage": 6816300,
+      "hasStudentLoan": true
     },
     {
       "name": "Stephen Oberbrunner",
@@ -1040,8 +1040,8 @@
       "income": 24500,
       "monthlyExpenses": 72100,
       "numberOfKids": 5,
-      "mortgage": 6033400,
-      "hasStudentLoans": false
+      "homeMortgage": 6033400,
+      "hasStudentLoan": false
     },
     {
       "name": "Gail Yundt",
@@ -1056,8 +1056,8 @@
       "income": 38200,
       "monthlyExpenses": 96100,
       "numberOfKids": 2,
-      "mortgage": 9147200,
-      "hasStudentLoans": true
+      "homeMortgage": 9147200,
+      "hasStudentLoan": true
     },
     {
       "name": "Ross Mitchell",
@@ -1072,8 +1072,8 @@
       "income": 53900,
       "monthlyExpenses": 4600,
       "numberOfKids": 1,
-      "mortgage": 9441200,
-      "hasStudentLoans": true
+      "homeMortgage": 9441200,
+      "hasStudentLoan": true
     },
     {
       "name": "Marlene Stiedemann",
@@ -1088,8 +1088,8 @@
       "income": 91000,
       "monthlyExpenses": 7900,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Nadine Schoen",
@@ -1104,8 +1104,8 @@
       "income": 83500,
       "monthlyExpenses": 5100,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Francis Shields",
@@ -1120,8 +1120,8 @@
       "income": 96200,
       "monthlyExpenses": 29600,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Earnest Bechtelar",
@@ -1136,8 +1136,8 @@
       "income": 25000,
       "monthlyExpenses": 75100,
       "numberOfKids": 1,
-      "mortgage": 7220700,
-      "hasStudentLoans": true
+      "homeMortgage": 7220700,
+      "hasStudentLoan": true
     },
     {
       "name": "Cathy Jones",
@@ -1152,8 +1152,8 @@
       "income": 43400,
       "monthlyExpenses": 5600,
       "numberOfKids": 4,
-      "mortgage": 7671400,
-      "hasStudentLoans": true
+      "homeMortgage": 7671400,
+      "hasStudentLoan": true
     },
     {
       "name": "Jeannette Carter",
@@ -1168,8 +1168,8 @@
       "income": 23900,
       "monthlyExpenses": 19500,
       "numberOfKids": 0,
-      "mortgage": 802300,
-      "hasStudentLoans": false
+      "homeMortgage": 802300,
+      "hasStudentLoan": false
     },
     {
       "name": "Irvin Wilderman",
@@ -1184,8 +1184,8 @@
       "income": 90600,
       "monthlyExpenses": 17200,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Amelia Gleason",
@@ -1200,8 +1200,8 @@
       "income": 15200,
       "monthlyExpenses": 9500,
       "numberOfKids": 4,
-      "mortgage": 1818300,
-      "hasStudentLoans": true
+      "homeMortgage": 1818300,
+      "hasStudentLoan": true
     },
     {
       "name": "Patty Pollich",
@@ -1216,8 +1216,8 @@
       "income": 4800,
       "monthlyExpenses": 19200,
       "numberOfKids": 0,
-      "mortgage": 7814200,
-      "hasStudentLoans": false
+      "homeMortgage": 7814200,
+      "hasStudentLoan": false
     },
     {
       "name": "Sheldon Rohan",
@@ -1232,8 +1232,8 @@
       "income": 3900,
       "monthlyExpenses": 17500,
       "numberOfKids": 4,
-      "mortgage": 6630100,
-      "hasStudentLoans": false
+      "homeMortgage": 6630100,
+      "hasStudentLoan": false
     },
     {
       "name": "Rebecca Buckridge",
@@ -1248,8 +1248,8 @@
       "income": 15000,
       "monthlyExpenses": 17000,
       "numberOfKids": 0,
-      "mortgage": 404600,
-      "hasStudentLoans": false
+      "homeMortgage": 404600,
+      "hasStudentLoan": false
     },
     {
       "name": "Geraldine Bauch",
@@ -1264,8 +1264,8 @@
       "income": 2700,
       "monthlyExpenses": 24100,
       "numberOfKids": 1,
-      "mortgage": 2810600,
-      "hasStudentLoans": false
+      "homeMortgage": 2810600,
+      "hasStudentLoan": false
     },
     {
       "name": "Marcus Rolfson",
@@ -1280,8 +1280,8 @@
       "income": 1900,
       "monthlyExpenses": 93700,
       "numberOfKids": 3,
-      "mortgage": 4011800,
-      "hasStudentLoans": false
+      "homeMortgage": 4011800,
+      "hasStudentLoan": false
     },
     {
       "name": "Wilma Conroy",
@@ -1296,8 +1296,8 @@
       "income": 39600,
       "monthlyExpenses": 199300,
       "numberOfKids": 0,
-      "mortgage": 900600,
-      "hasStudentLoans": false
+      "homeMortgage": 900600,
+      "hasStudentLoan": false
     },
     {
       "name": "Rebecca Marquardt",
@@ -1312,8 +1312,8 @@
       "income": 3000,
       "monthlyExpenses": 29800,
       "numberOfKids": 4,
-      "mortgage": 2530500,
-      "hasStudentLoans": false
+      "homeMortgage": 2530500,
+      "hasStudentLoan": false
     },
     {
       "name": "Roberto Ondricka",
@@ -1328,8 +1328,8 @@
       "income": 66600,
       "monthlyExpenses": 14000,
       "numberOfKids": 4,
-      "mortgage": 6118400,
-      "hasStudentLoans": false
+      "homeMortgage": 6118400,
+      "hasStudentLoan": false
     },
     {
       "name": "Charlotte Okuneva",
@@ -1344,8 +1344,8 @@
       "income": 71400,
       "monthlyExpenses": 7900,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Cedric Reilly",
@@ -1360,8 +1360,8 @@
       "income": 21100,
       "monthlyExpenses": 23500,
       "numberOfKids": 2,
-      "mortgage": 1729600,
-      "hasStudentLoans": true
+      "homeMortgage": 1729600,
+      "hasStudentLoan": true
     },
     {
       "name": "Earl Heller",
@@ -1376,8 +1376,8 @@
       "income": 14000,
       "monthlyExpenses": 31300,
       "numberOfKids": 3,
-      "mortgage": 104200,
-      "hasStudentLoans": true
+      "homeMortgage": 104200,
+      "hasStudentLoan": true
     },
     {
       "name": "Victor Anderson",
@@ -1392,8 +1392,8 @@
       "income": 2300,
       "monthlyExpenses": 43400,
       "numberOfKids": 2,
-      "mortgage": 7832500,
-      "hasStudentLoans": false
+      "homeMortgage": 7832500,
+      "hasStudentLoan": false
     },
     {
       "name": "Vicki Pfannerstill",
@@ -1408,8 +1408,8 @@
       "income": 66400,
       "monthlyExpenses": 25000,
       "numberOfKids": 1,
-      "mortgage": 5516300,
-      "hasStudentLoans": false
+      "homeMortgage": 5516300,
+      "hasStudentLoan": false
     },
     {
       "name": "Suzanne Mraz",
@@ -1424,8 +1424,8 @@
       "income": 2900,
       "monthlyExpenses": 41000,
       "numberOfKids": 0,
-      "mortgage": 6006600,
-      "hasStudentLoans": false
+      "homeMortgage": 6006600,
+      "hasStudentLoan": false
     },
     {
       "name": "Wilson Konopelski",
@@ -1440,8 +1440,8 @@
       "income": 20300,
       "monthlyExpenses": 12500,
       "numberOfKids": 0,
-      "mortgage": 6381000,
-      "hasStudentLoans": false
+      "homeMortgage": 6381000,
+      "hasStudentLoan": false
     },
     {
       "name": "Oscar Cartwright",
@@ -1456,8 +1456,8 @@
       "income": 1800,
       "monthlyExpenses": 72700,
       "numberOfKids": 1,
-      "mortgage": 6577600,
-      "hasStudentLoans": false
+      "homeMortgage": 6577600,
+      "hasStudentLoan": false
     },
     {
       "name": "Ismael Conn",
@@ -1472,8 +1472,8 @@
       "income": 40700,
       "monthlyExpenses": 111200,
       "numberOfKids": 1,
-      "mortgage": 2731100,
-      "hasStudentLoans": true
+      "homeMortgage": 2731100,
+      "hasStudentLoan": true
     },
     {
       "name": "Leigh O\u0027Hara",
@@ -1488,8 +1488,8 @@
       "income": 21700,
       "monthlyExpenses": 16200,
       "numberOfKids": 0,
-      "mortgage": 145400,
-      "hasStudentLoans": false
+      "homeMortgage": 145400,
+      "hasStudentLoan": false
     },
     {
       "name": "Ernest Hodkiewicz",
@@ -1504,8 +1504,8 @@
       "income": 12800,
       "monthlyExpenses": 174500,
       "numberOfKids": 2,
-      "mortgage": 4461600,
-      "hasStudentLoans": false
+      "homeMortgage": 4461600,
+      "hasStudentLoan": false
     },
     {
       "name": "Don Bode",
@@ -1520,8 +1520,8 @@
       "income": 31200,
       "monthlyExpenses": 150100,
       "numberOfKids": 4,
-      "mortgage": 5227500,
-      "hasStudentLoans": false
+      "homeMortgage": 5227500,
+      "hasStudentLoan": false
     },
     {
       "name": "Boyd Cummings",
@@ -1536,8 +1536,8 @@
       "income": 4600,
       "monthlyExpenses": 83500,
       "numberOfKids": 4,
-      "mortgage": 8739500,
-      "hasStudentLoans": false
+      "homeMortgage": 8739500,
+      "hasStudentLoan": false
     },
     {
       "name": "Jonathan Wisoky",
@@ -1552,8 +1552,8 @@
       "income": 4700,
       "monthlyExpenses": 60800,
       "numberOfKids": 2,
-      "mortgage": 4724600,
-      "hasStudentLoans": false
+      "homeMortgage": 4724600,
+      "hasStudentLoan": false
     },
     {
       "name": "Zachary Durgan",
@@ -1568,8 +1568,8 @@
       "income": 9400,
       "monthlyExpenses": 74600,
       "numberOfKids": 0,
-      "mortgage": 9837200,
-      "hasStudentLoans": true
+      "homeMortgage": 9837200,
+      "hasStudentLoan": true
     },
     {
       "name": "Boyd Kautzer",
@@ -1584,8 +1584,8 @@
       "income": 35900,
       "monthlyExpenses": 3100,
       "numberOfKids": 1,
-      "mortgage": 5484000,
-      "hasStudentLoans": true
+      "homeMortgage": 5484000,
+      "hasStudentLoan": true
     },
     {
       "name": "Hilda Okuneva",
@@ -1600,8 +1600,8 @@
       "income": 96100,
       "monthlyExpenses": 24200,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Ryan Jacobson",
@@ -1616,8 +1616,8 @@
       "income": 45400,
       "monthlyExpenses": 92500,
       "numberOfKids": 1,
-      "mortgage": 4358500,
-      "hasStudentLoans": false
+      "homeMortgage": 4358500,
+      "hasStudentLoan": false
     },
     {
       "name": "Shelley Kris",
@@ -1632,8 +1632,8 @@
       "income": 3400,
       "monthlyExpenses": 106400,
       "numberOfKids": 1,
-      "mortgage": 6198600,
-      "hasStudentLoans": false
+      "homeMortgage": 6198600,
+      "hasStudentLoan": false
     },
     {
       "name": "Clyde Sawayn",
@@ -1648,8 +1648,8 @@
       "income": 23300,
       "monthlyExpenses": 111300,
       "numberOfKids": 2,
-      "mortgage": 4775700,
-      "hasStudentLoans": true
+      "homeMortgage": 4775700,
+      "hasStudentLoan": true
     },
     {
       "name": "Scott Bauch",
@@ -1664,8 +1664,8 @@
       "income": 45000,
       "monthlyExpenses": 4300,
       "numberOfKids": 0,
-      "mortgage": 1815900,
-      "hasStudentLoans": true
+      "homeMortgage": 1815900,
+      "hasStudentLoan": true
     },
     {
       "name": "Ethel Kutch",
@@ -1680,8 +1680,8 @@
       "income": 32000,
       "monthlyExpenses": 26800,
       "numberOfKids": 0,
-      "mortgage": 4022700,
-      "hasStudentLoans": true
+      "homeMortgage": 4022700,
+      "hasStudentLoan": true
     },
     {
       "name": "Joseph Ledner",
@@ -1696,8 +1696,8 @@
       "income": 35200,
       "monthlyExpenses": 8000,
       "numberOfKids": 2,
-      "mortgage": 4656000,
-      "hasStudentLoans": false
+      "homeMortgage": 4656000,
+      "hasStudentLoan": false
     },
     {
       "name": "Vivian Kulas",
@@ -1712,8 +1712,8 @@
       "income": 3600,
       "monthlyExpenses": 91500,
       "numberOfKids": 4,
-      "mortgage": 8352300,
-      "hasStudentLoans": true
+      "homeMortgage": 8352300,
+      "hasStudentLoan": true
     },
     {
       "name": "Kelley Rippin",
@@ -1728,8 +1728,8 @@
       "income": 58100,
       "monthlyExpenses": 6600,
       "numberOfKids": 3,
-      "mortgage": 6267100,
-      "hasStudentLoans": false
+      "homeMortgage": 6267100,
+      "hasStudentLoan": false
     },
     {
       "name": "William Stehr",
@@ -1744,8 +1744,8 @@
       "income": 17200,
       "monthlyExpenses": 138500,
       "numberOfKids": 3,
-      "mortgage": 7699500,
-      "hasStudentLoans": true
+      "homeMortgage": 7699500,
+      "hasStudentLoan": true
     },
     {
       "name": "Celia Brown",
@@ -1760,8 +1760,8 @@
       "income": 27300,
       "monthlyExpenses": 89000,
       "numberOfKids": 3,
-      "mortgage": 2664600,
-      "hasStudentLoans": false
+      "homeMortgage": 2664600,
+      "hasStudentLoan": false
     },
     {
       "name": "Elvira Hermann",
@@ -1776,8 +1776,8 @@
       "income": 61300,
       "monthlyExpenses": 5000,
       "numberOfKids": 0,
-      "mortgage": 2353600,
-      "hasStudentLoans": false
+      "homeMortgage": 2353600,
+      "hasStudentLoan": false
     },
     {
       "name": "Irvin Schneider",
@@ -1792,8 +1792,8 @@
       "income": 44200,
       "monthlyExpenses": 7500,
       "numberOfKids": 2,
-      "mortgage": 7010500,
-      "hasStudentLoans": true
+      "homeMortgage": 7010500,
+      "hasStudentLoan": true
     },
     {
       "name": "Roberta Mayert",
@@ -1808,8 +1808,8 @@
       "income": 95700,
       "monthlyExpenses": 25100,
       "numberOfKids": 4,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Robert Ryan",
@@ -1824,8 +1824,8 @@
       "income": 93700,
       "monthlyExpenses": 12300,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Kerry Lynch",
@@ -1840,8 +1840,8 @@
       "income": 50000,
       "monthlyExpenses": 4000,
       "numberOfKids": 2,
-      "mortgage": 5160400,
-      "hasStudentLoans": true
+      "homeMortgage": 5160400,
+      "hasStudentLoan": true
     },
     {
       "name": "Neil Dach",
@@ -1856,8 +1856,8 @@
       "income": 30700,
       "monthlyExpenses": 16500,
       "numberOfKids": 0,
-      "mortgage": 1020200,
-      "hasStudentLoans": true
+      "homeMortgage": 1020200,
+      "hasStudentLoan": true
     },
     {
       "name": "Heather Schmitt",
@@ -1872,8 +1872,8 @@
       "income": 2400,
       "monthlyExpenses": 75300,
       "numberOfKids": 5,
-      "mortgage": 7082300,
-      "hasStudentLoans": false
+      "homeMortgage": 7082300,
+      "hasStudentLoan": false
     },
     {
       "name": "Willie Ernser",
@@ -1888,8 +1888,8 @@
       "income": 81700,
       "monthlyExpenses": 14500,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Dominick Green",
@@ -1904,8 +1904,8 @@
       "income": 35100,
       "monthlyExpenses": 21000,
       "numberOfKids": 2,
-      "mortgage": 3269000,
-      "hasStudentLoans": false
+      "homeMortgage": 3269000,
+      "hasStudentLoan": false
     },
     {
       "name": "Bryant Jerde",
@@ -1920,8 +1920,8 @@
       "income": 63700,
       "monthlyExpenses": 4600,
       "numberOfKids": 0,
-      "mortgage": 2970500,
-      "hasStudentLoans": false
+      "homeMortgage": 2970500,
+      "hasStudentLoan": false
     },
     {
       "name": "Elvira Kemmer",
@@ -1936,8 +1936,8 @@
       "income": 3600,
       "monthlyExpenses": 38400,
       "numberOfKids": 0,
-      "mortgage": 4732000,
-      "hasStudentLoans": true
+      "homeMortgage": 4732000,
+      "hasStudentLoan": true
     },
     {
       "name": "Bridget Lang",
@@ -1952,8 +1952,8 @@
       "income": 37400,
       "monthlyExpenses": 21300,
       "numberOfKids": 4,
-      "mortgage": 3046500,
-      "hasStudentLoans": false
+      "homeMortgage": 3046500,
+      "hasStudentLoan": false
     },
     {
       "name": "Fredrick Keebler",
@@ -1968,8 +1968,8 @@
       "income": 7400,
       "monthlyExpenses": 34000,
       "numberOfKids": 5,
-      "mortgage": 5016200,
-      "hasStudentLoans": false
+      "homeMortgage": 5016200,
+      "hasStudentLoan": false
     },
     {
       "name": "Aubrey Will",
@@ -1984,8 +1984,8 @@
       "income": 14300,
       "monthlyExpenses": 27200,
       "numberOfKids": 3,
-      "mortgage": 6753000,
-      "hasStudentLoans": false
+      "homeMortgage": 6753000,
+      "hasStudentLoan": false
     },
     {
       "name": "Charlie Metz",
@@ -2000,8 +2000,8 @@
       "income": 53000,
       "monthlyExpenses": 6600,
       "numberOfKids": 5,
-      "mortgage": 8134300,
-      "hasStudentLoans": true
+      "homeMortgage": 8134300,
+      "hasStudentLoan": true
     },
     {
       "name": "Bill Koepp",
@@ -2016,8 +2016,8 @@
       "income": 4700,
       "monthlyExpenses": 89400,
       "numberOfKids": 0,
-      "mortgage": 577700,
-      "hasStudentLoans": true
+      "homeMortgage": 577700,
+      "hasStudentLoan": true
     },
     {
       "name": "Martin Shanahan",
@@ -2032,8 +2032,8 @@
       "income": 79100,
       "monthlyExpenses": 16800,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Debbie Mills",
@@ -2048,8 +2048,8 @@
       "income": 49800,
       "monthlyExpenses": 8800,
       "numberOfKids": 0,
-      "mortgage": 1671600,
-      "hasStudentLoans": true
+      "homeMortgage": 1671600,
+      "hasStudentLoan": true
     },
     {
       "name": "Evelyn Bernier",
@@ -2064,8 +2064,8 @@
       "income": 32600,
       "monthlyExpenses": 8300,
       "numberOfKids": 2,
-      "mortgage": 3822500,
-      "hasStudentLoans": false
+      "homeMortgage": 3822500,
+      "hasStudentLoan": false
     },
     {
       "name": "Virginia Kertzmann",
@@ -2080,8 +2080,8 @@
       "income": 56500,
       "monthlyExpenses": 19900,
       "numberOfKids": 0,
-      "mortgage": 9856600,
-      "hasStudentLoans": true
+      "homeMortgage": 9856600,
+      "hasStudentLoan": true
     },
     {
       "name": "Lisa Shanahan",
@@ -2096,8 +2096,8 @@
       "income": 7400,
       "monthlyExpenses": 12600,
       "numberOfKids": 0,
-      "mortgage": 8359600,
-      "hasStudentLoans": false
+      "homeMortgage": 8359600,
+      "hasStudentLoan": false
     },
     {
       "name": "Thelma Olson",
@@ -2112,8 +2112,8 @@
       "income": 2900,
       "monthlyExpenses": 119200,
       "numberOfKids": 3,
-      "mortgage": 8815000,
-      "hasStudentLoans": true
+      "homeMortgage": 8815000,
+      "hasStudentLoan": true
     },
     {
       "name": "Jan Jast",
@@ -2128,8 +2128,8 @@
       "income": 78700,
       "monthlyExpenses": 20400,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Lester Hansen",
@@ -2144,8 +2144,8 @@
       "income": 39700,
       "monthlyExpenses": 13900,
       "numberOfKids": 0,
-      "mortgage": 109300,
-      "hasStudentLoans": true
+      "homeMortgage": 109300,
+      "hasStudentLoan": true
     },
     {
       "name": "Juan Runte",
@@ -2160,8 +2160,8 @@
       "income": 1700,
       "monthlyExpenses": 80100,
       "numberOfKids": 2,
-      "mortgage": 5191100,
-      "hasStudentLoans": false
+      "homeMortgage": 5191100,
+      "hasStudentLoan": false
     },
     {
       "name": "Floyd Huel",
@@ -2176,8 +2176,8 @@
       "income": 3700,
       "monthlyExpenses": 90600,
       "numberOfKids": 0,
-      "mortgage": 7485100,
-      "hasStudentLoans": false
+      "homeMortgage": 7485100,
+      "hasStudentLoan": false
     },
     {
       "name": "Betsy Johns",
@@ -2192,8 +2192,8 @@
       "income": 90300,
       "monthlyExpenses": 15300,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Martin Langosh",
@@ -2208,8 +2208,8 @@
       "income": 40400,
       "monthlyExpenses": 9200,
       "numberOfKids": 0,
-      "mortgage": 7655900,
-      "hasStudentLoans": true
+      "homeMortgage": 7655900,
+      "hasStudentLoan": true
     },
     {
       "name": "Ruben Langworth",
@@ -2224,8 +2224,8 @@
       "income": 57400,
       "monthlyExpenses": 11800,
       "numberOfKids": 2,
-      "mortgage": 6335400,
-      "hasStudentLoans": false
+      "homeMortgage": 6335400,
+      "hasStudentLoan": false
     },
     {
       "name": "Ernest Tillman",
@@ -2240,8 +2240,8 @@
       "income": 51700,
       "monthlyExpenses": 2500,
       "numberOfKids": 0,
-      "mortgage": 9133100,
-      "hasStudentLoans": true
+      "homeMortgage": 9133100,
+      "hasStudentLoan": true
     },
     {
       "name": "Anita Ruecker",
@@ -2256,8 +2256,8 @@
       "income": 51200,
       "monthlyExpenses": 3400,
       "numberOfKids": 0,
-      "mortgage": 9982000,
-      "hasStudentLoans": false
+      "homeMortgage": 9982000,
+      "hasStudentLoan": false
     },
     {
       "name": "Lamar Green",
@@ -2272,8 +2272,8 @@
       "income": 3200,
       "monthlyExpenses": 107200,
       "numberOfKids": 0,
-      "mortgage": 9434900,
-      "hasStudentLoans": false
+      "homeMortgage": 9434900,
+      "hasStudentLoan": false
     },
     {
       "name": "Margaret Jast",
@@ -2288,8 +2288,8 @@
       "income": 3200,
       "monthlyExpenses": 107600,
       "numberOfKids": 1,
-      "mortgage": 7046400,
-      "hasStudentLoans": true
+      "homeMortgage": 7046400,
+      "hasStudentLoan": true
     },
     {
       "name": "Nicolas Kris",
@@ -2304,8 +2304,8 @@
       "income": 4700,
       "monthlyExpenses": 41000,
       "numberOfKids": 1,
-      "mortgage": 3216100,
-      "hasStudentLoans": true
+      "homeMortgage": 3216100,
+      "hasStudentLoan": true
     },
     {
       "name": "Craig Lakin",
@@ -2320,8 +2320,8 @@
       "income": 4300,
       "monthlyExpenses": 93000,
       "numberOfKids": 0,
-      "mortgage": 6054100,
-      "hasStudentLoans": true
+      "homeMortgage": 6054100,
+      "hasStudentLoan": true
     },
     {
       "name": "Tracy Schowalter",
@@ -2336,8 +2336,8 @@
       "income": 1900,
       "monthlyExpenses": 61600,
       "numberOfKids": 3,
-      "mortgage": 7069300,
-      "hasStudentLoans": true
+      "homeMortgage": 7069300,
+      "hasStudentLoan": true
     },
     {
       "name": "Dominick Brakus",
@@ -2352,8 +2352,8 @@
       "income": 49300,
       "monthlyExpenses": 7800,
       "numberOfKids": 2,
-      "mortgage": 3721700,
-      "hasStudentLoans": false
+      "homeMortgage": 3721700,
+      "hasStudentLoan": false
     },
     {
       "name": "Sarah Turcotte",
@@ -2368,8 +2368,8 @@
       "income": 2900,
       "monthlyExpenses": 99400,
       "numberOfKids": 3,
-      "mortgage": 2891300,
-      "hasStudentLoans": false
+      "homeMortgage": 2891300,
+      "hasStudentLoan": false
     },
     {
       "name": "Brooke Botsford",
@@ -2384,8 +2384,8 @@
       "income": 17800,
       "monthlyExpenses": 7300,
       "numberOfKids": 3,
-      "mortgage": 969100,
-      "hasStudentLoans": false
+      "homeMortgage": 969100,
+      "hasStudentLoan": false
     },
     {
       "name": "Sergio Fahey",
@@ -2400,8 +2400,8 @@
       "income": 4900,
       "monthlyExpenses": 54300,
       "numberOfKids": 0,
-      "mortgage": 2850800,
-      "hasStudentLoans": false
+      "homeMortgage": 2850800,
+      "hasStudentLoan": false
     },
     {
       "name": "Ellis Schaden",
@@ -2416,8 +2416,8 @@
       "income": 22100,
       "monthlyExpenses": 166800,
       "numberOfKids": 3,
-      "mortgage": 7900500,
-      "hasStudentLoans": true
+      "homeMortgage": 7900500,
+      "hasStudentLoan": true
     },
     {
       "name": "Shane Wehner",
@@ -2432,8 +2432,8 @@
       "income": 7000,
       "monthlyExpenses": 22000,
       "numberOfKids": 0,
-      "mortgage": 4181400,
-      "hasStudentLoans": true
+      "homeMortgage": 4181400,
+      "hasStudentLoan": true
     },
     {
       "name": "Camille Farrell",
@@ -2448,8 +2448,8 @@
       "income": 17600,
       "monthlyExpenses": 2000,
       "numberOfKids": 0,
-      "mortgage": 2281200,
-      "hasStudentLoans": true
+      "homeMortgage": 2281200,
+      "hasStudentLoan": true
     },
     {
       "name": "Gustavo Luettgen",
@@ -2464,8 +2464,8 @@
       "income": 62000,
       "monthlyExpenses": 23000,
       "numberOfKids": 4,
-      "mortgage": 5731100,
-      "hasStudentLoans": true
+      "homeMortgage": 5731100,
+      "hasStudentLoan": true
     },
     {
       "name": "Jonathan Sanford",
@@ -2480,8 +2480,8 @@
       "income": 39400,
       "monthlyExpenses": 127800,
       "numberOfKids": 1,
-      "mortgage": 2715000,
-      "hasStudentLoans": true
+      "homeMortgage": 2715000,
+      "hasStudentLoan": true
     },
     {
       "name": "Carroll Gulgowski",
@@ -2496,8 +2496,8 @@
       "income": 8000,
       "monthlyExpenses": 183800,
       "numberOfKids": 2,
-      "mortgage": 6834200,
-      "hasStudentLoans": true
+      "homeMortgage": 6834200,
+      "hasStudentLoan": true
     },
     {
       "name": "Rufus Williamson",
@@ -2512,8 +2512,8 @@
       "income": 37700,
       "monthlyExpenses": 22100,
       "numberOfKids": 0,
-      "mortgage": 4971300,
-      "hasStudentLoans": false
+      "homeMortgage": 4971300,
+      "hasStudentLoan": false
     },
     {
       "name": "Rogelio Zulauf",
@@ -2528,8 +2528,8 @@
       "income": 1900,
       "monthlyExpenses": 118300,
       "numberOfKids": 2,
-      "mortgage": 6147300,
-      "hasStudentLoans": true
+      "homeMortgage": 6147300,
+      "hasStudentLoan": true
     },
     {
       "name": "Jerald Powlowski",
@@ -2544,8 +2544,8 @@
       "income": 1400,
       "monthlyExpenses": 87300,
       "numberOfKids": 0,
-      "mortgage": 7203000,
-      "hasStudentLoans": true
+      "homeMortgage": 7203000,
+      "hasStudentLoan": true
     },
     {
       "name": "Craig Ankunding",
@@ -2560,8 +2560,8 @@
       "income": 1700,
       "monthlyExpenses": 116600,
       "numberOfKids": 4,
-      "mortgage": 4673700,
-      "hasStudentLoans": false
+      "homeMortgage": 4673700,
+      "hasStudentLoan": false
     },
     {
       "name": "Leroy Hilll",
@@ -2576,8 +2576,8 @@
       "income": 5000,
       "monthlyExpenses": 52000,
       "numberOfKids": 0,
-      "mortgage": 4974600,
-      "hasStudentLoans": false
+      "homeMortgage": 4974600,
+      "hasStudentLoan": false
     },
     {
       "name": "Lela Steuber",
@@ -2592,8 +2592,8 @@
       "income": 32400,
       "monthlyExpenses": 59000,
       "numberOfKids": 3,
-      "mortgage": 5397000,
-      "hasStudentLoans": true
+      "homeMortgage": 5397000,
+      "hasStudentLoan": true
     },
     {
       "name": "Irving Rogahn",
@@ -2608,8 +2608,8 @@
       "income": 30800,
       "monthlyExpenses": 7100,
       "numberOfKids": 1,
-      "mortgage": 389200,
-      "hasStudentLoans": true
+      "homeMortgage": 389200,
+      "hasStudentLoan": true
     },
     {
       "name": "Rex Dooley",
@@ -2624,8 +2624,8 @@
       "income": 33800,
       "monthlyExpenses": 16600,
       "numberOfKids": 0,
-      "mortgage": 6518300,
-      "hasStudentLoans": false
+      "homeMortgage": 6518300,
+      "hasStudentLoan": false
     },
     {
       "name": "Alvin Windler",
@@ -2640,8 +2640,8 @@
       "income": 19800,
       "monthlyExpenses": 10200,
       "numberOfKids": 0,
-      "mortgage": 9083400,
-      "hasStudentLoans": true
+      "homeMortgage": 9083400,
+      "hasStudentLoan": true
     },
     {
       "name": "Phil Kunze",
@@ -2656,8 +2656,8 @@
       "income": 77200,
       "monthlyExpenses": 23700,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Ron Muller",
@@ -2672,8 +2672,8 @@
       "income": 57600,
       "monthlyExpenses": 4400,
       "numberOfKids": 1,
-      "mortgage": 5815000,
-      "hasStudentLoans": true
+      "homeMortgage": 5815000,
+      "hasStudentLoan": true
     },
     {
       "name": "Brendan Stark",
@@ -2688,8 +2688,8 @@
       "income": 31700,
       "monthlyExpenses": 24300,
       "numberOfKids": 1,
-      "mortgage": 1962900,
-      "hasStudentLoans": true
+      "homeMortgage": 1962900,
+      "hasStudentLoan": true
     },
     {
       "name": "Irene Langworth",
@@ -2704,8 +2704,8 @@
       "income": 2200,
       "monthlyExpenses": 59100,
       "numberOfKids": 0,
-      "mortgage": 4478700,
-      "hasStudentLoans": false
+      "homeMortgage": 4478700,
+      "hasStudentLoan": false
     },
     {
       "name": "Ervin Bergstrom",
@@ -2720,8 +2720,8 @@
       "income": 15300,
       "monthlyExpenses": 24700,
       "numberOfKids": 2,
-      "mortgage": 7604300,
-      "hasStudentLoans": true
+      "homeMortgage": 7604300,
+      "hasStudentLoan": true
     },
     {
       "name": "Clinton Fahey",
@@ -2736,8 +2736,8 @@
       "income": 59700,
       "monthlyExpenses": 8200,
       "numberOfKids": 0,
-      "mortgage": 5601200,
-      "hasStudentLoans": true
+      "homeMortgage": 5601200,
+      "hasStudentLoan": true
     },
     {
       "name": "Darlene Hickle",
@@ -2752,8 +2752,8 @@
       "income": 35600,
       "monthlyExpenses": 5500,
       "numberOfKids": 3,
-      "mortgage": 6020700,
-      "hasStudentLoans": false
+      "homeMortgage": 6020700,
+      "hasStudentLoan": false
     },
     {
       "name": "Ed Marquardt",
@@ -2768,8 +2768,8 @@
       "income": 48000,
       "monthlyExpenses": 3200,
       "numberOfKids": 1,
-      "mortgage": 3093400,
-      "hasStudentLoans": false
+      "homeMortgage": 3093400,
+      "hasStudentLoan": false
     },
     {
       "name": "Derek Kertzmann",
@@ -2784,8 +2784,8 @@
       "income": 16000,
       "monthlyExpenses": 25800,
       "numberOfKids": 0,
-      "mortgage": 6062100,
-      "hasStudentLoans": false
+      "homeMortgage": 6062100,
+      "hasStudentLoan": false
     },
     {
       "name": "Marco Ebert",
@@ -2800,8 +2800,8 @@
       "income": 45000,
       "monthlyExpenses": 3900,
       "numberOfKids": 4,
-      "mortgage": 392500,
-      "hasStudentLoans": false
+      "homeMortgage": 392500,
+      "hasStudentLoan": false
     },
     {
       "name": "Orlando Schamberger",
@@ -2816,8 +2816,8 @@
       "income": 12600,
       "monthlyExpenses": 22700,
       "numberOfKids": 1,
-      "mortgage": 6565600,
-      "hasStudentLoans": true
+      "homeMortgage": 6565600,
+      "hasStudentLoan": true
     },
     {
       "name": "Gwendolyn O\u0027Conner",
@@ -2832,8 +2832,8 @@
       "income": 56900,
       "monthlyExpenses": 26400,
       "numberOfKids": 0,
-      "mortgage": 3338600,
-      "hasStudentLoans": false
+      "homeMortgage": 3338600,
+      "hasStudentLoan": false
     },
     {
       "name": "Lindsey Bogisich",
@@ -2848,8 +2848,8 @@
       "income": 75500,
       "monthlyExpenses": 14200,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Thomas Walker",
@@ -2864,8 +2864,8 @@
       "income": 18500,
       "monthlyExpenses": 19000,
       "numberOfKids": 0,
-      "mortgage": 2302900,
-      "hasStudentLoans": true
+      "homeMortgage": 2302900,
+      "hasStudentLoan": true
     },
     {
       "name": "Adam Steuber",
@@ -2880,8 +2880,8 @@
       "income": 44300,
       "monthlyExpenses": 24000,
       "numberOfKids": 1,
-      "mortgage": 7896300,
-      "hasStudentLoans": false
+      "homeMortgage": 7896300,
+      "hasStudentLoan": false
     },
     {
       "name": "Robyn Mills",
@@ -2896,8 +2896,8 @@
       "income": 2100,
       "monthlyExpenses": 36900,
       "numberOfKids": 5,
-      "mortgage": 2306800,
-      "hasStudentLoans": true
+      "homeMortgage": 2306800,
+      "hasStudentLoan": true
     },
     {
       "name": "Maxine Cremin",
@@ -2912,8 +2912,8 @@
       "income": 3100,
       "monthlyExpenses": 44500,
       "numberOfKids": 0,
-      "mortgage": 7272400,
-      "hasStudentLoans": false
+      "homeMortgage": 7272400,
+      "hasStudentLoan": false
     },
     {
       "name": "Eileen McClure",
@@ -2928,8 +2928,8 @@
       "income": 47700,
       "monthlyExpenses": 136200,
       "numberOfKids": 3,
-      "mortgage": 4834000,
-      "hasStudentLoans": true
+      "homeMortgage": 4834000,
+      "hasStudentLoan": true
     },
     {
       "name": "Margaret Lowe",
@@ -2944,8 +2944,8 @@
       "income": 33700,
       "monthlyExpenses": 20700,
       "numberOfKids": 0,
-      "mortgage": 9177800,
-      "hasStudentLoans": false
+      "homeMortgage": 9177800,
+      "hasStudentLoan": false
     },
     {
       "name": "Jill Weber",
@@ -2960,8 +2960,8 @@
       "income": 94900,
       "monthlyExpenses": 13000,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Horace Rohan",
@@ -2976,8 +2976,8 @@
       "income": 37600,
       "monthlyExpenses": 11600,
       "numberOfKids": 0,
-      "mortgage": 253700,
-      "hasStudentLoans": true
+      "homeMortgage": 253700,
+      "hasStudentLoan": true
     },
     {
       "name": "Ashley Runolfsdottir",
@@ -2992,8 +2992,8 @@
       "income": 65100,
       "monthlyExpenses": 8500,
       "numberOfKids": 2,
-      "mortgage": 6800800,
-      "hasStudentLoans": false
+      "homeMortgage": 6800800,
+      "hasStudentLoan": false
     },
     {
       "name": "Emma Stehr",
@@ -3008,8 +3008,8 @@
       "income": 13200,
       "monthlyExpenses": 91500,
       "numberOfKids": 4,
-      "mortgage": 917500,
-      "hasStudentLoans": false
+      "homeMortgage": 917500,
+      "hasStudentLoan": false
     },
     {
       "name": "Ruth DuBuque",
@@ -3024,8 +3024,8 @@
       "income": 2000,
       "monthlyExpenses": 35600,
       "numberOfKids": 1,
-      "mortgage": 4015900,
-      "hasStudentLoans": true
+      "homeMortgage": 4015900,
+      "hasStudentLoan": true
     },
     {
       "name": "Rita Tillman",
@@ -3040,8 +3040,8 @@
       "income": 27000,
       "monthlyExpenses": 16800,
       "numberOfKids": 5,
-      "mortgage": 4125400,
-      "hasStudentLoans": true
+      "homeMortgage": 4125400,
+      "hasStudentLoan": true
     },
     {
       "name": "Rose Romaguera",
@@ -3056,8 +3056,8 @@
       "income": 32900,
       "monthlyExpenses": 34400,
       "numberOfKids": 0,
-      "mortgage": 7049000,
-      "hasStudentLoans": true
+      "homeMortgage": 7049000,
+      "hasStudentLoan": true
     },
     {
       "name": "Lyle Pollich",
@@ -3072,8 +3072,8 @@
       "income": 22300,
       "monthlyExpenses": 182500,
       "numberOfKids": 4,
-      "mortgage": 6637300,
-      "hasStudentLoans": false
+      "homeMortgage": 6637300,
+      "hasStudentLoan": false
     },
     {
       "name": "Angelica Marquardt",
@@ -3088,8 +3088,8 @@
       "income": 26900,
       "monthlyExpenses": 66800,
       "numberOfKids": 0,
-      "mortgage": 1733800,
-      "hasStudentLoans": false
+      "homeMortgage": 1733800,
+      "hasStudentLoan": false
     },
     {
       "name": "Austin Hammes",
@@ -3104,8 +3104,8 @@
       "income": 38800,
       "monthlyExpenses": 80000,
       "numberOfKids": 4,
-      "mortgage": 5899000,
-      "hasStudentLoans": false
+      "homeMortgage": 5899000,
+      "hasStudentLoan": false
     },
     {
       "name": "Molly Marquardt",
@@ -3120,8 +3120,8 @@
       "income": 37800,
       "monthlyExpenses": 14100,
       "numberOfKids": 4,
-      "mortgage": 3965400,
-      "hasStudentLoans": true
+      "homeMortgage": 3965400,
+      "hasStudentLoan": true
     },
     {
       "name": "Yolanda Emard",
@@ -3136,8 +3136,8 @@
       "income": 55500,
       "monthlyExpenses": 4800,
       "numberOfKids": 5,
-      "mortgage": 7237200,
-      "hasStudentLoans": true
+      "homeMortgage": 7237200,
+      "hasStudentLoan": true
     },
     {
       "name": "Violet Hahn",
@@ -3152,8 +3152,8 @@
       "income": 8200,
       "monthlyExpenses": 20700,
       "numberOfKids": 0,
-      "mortgage": 7373800,
-      "hasStudentLoans": true
+      "homeMortgage": 7373800,
+      "hasStudentLoan": true
     },
     {
       "name": "Wesley Aufderhar",
@@ -3168,8 +3168,8 @@
       "income": 2900,
       "monthlyExpenses": 52100,
       "numberOfKids": 0,
-      "mortgage": 5767800,
-      "hasStudentLoans": false
+      "homeMortgage": 5767800,
+      "hasStudentLoan": false
     },
     {
       "name": "Luis Stamm",
@@ -3184,8 +3184,8 @@
       "income": 21500,
       "monthlyExpenses": 12600,
       "numberOfKids": 0,
-      "mortgage": 593000,
-      "hasStudentLoans": false
+      "homeMortgage": 593000,
+      "hasStudentLoan": false
     },
     {
       "name": "Natasha Sauer",
@@ -3200,8 +3200,8 @@
       "income": 36500,
       "monthlyExpenses": 23300,
       "numberOfKids": 2,
-      "mortgage": 3932200,
-      "hasStudentLoans": true
+      "homeMortgage": 3932200,
+      "hasStudentLoan": true
     },
     {
       "name": "Alberto Wiegand",
@@ -3216,8 +3216,8 @@
       "income": 27100,
       "monthlyExpenses": 11400,
       "numberOfKids": 2,
-      "mortgage": 4684900,
-      "hasStudentLoans": true
+      "homeMortgage": 4684900,
+      "hasStudentLoan": true
     },
     {
       "name": "Hazel Schultz",
@@ -3232,8 +3232,8 @@
       "income": 4400,
       "monthlyExpenses": 71700,
       "numberOfKids": 5,
-      "mortgage": 4260400,
-      "hasStudentLoans": true
+      "homeMortgage": 4260400,
+      "hasStudentLoan": true
     },
     {
       "name": "Drew Block",
@@ -3248,8 +3248,8 @@
       "income": 4300,
       "monthlyExpenses": 79400,
       "numberOfKids": 1,
-      "mortgage": 4351000,
-      "hasStudentLoans": true
+      "homeMortgage": 4351000,
+      "hasStudentLoan": true
     },
     {
       "name": "Karen Harber",
@@ -3264,8 +3264,8 @@
       "income": 8000,
       "monthlyExpenses": 99400,
       "numberOfKids": 5,
-      "mortgage": 2144000,
-      "hasStudentLoans": false
+      "homeMortgage": 2144000,
+      "hasStudentLoan": false
     },
     {
       "name": "Kristine Luettgen",
@@ -3280,8 +3280,8 @@
       "income": 20300,
       "monthlyExpenses": 16600,
       "numberOfKids": 1,
-      "mortgage": 8491500,
-      "hasStudentLoans": true
+      "homeMortgage": 8491500,
+      "hasStudentLoan": true
     },
     {
       "name": "Santiago Wyman",
@@ -3296,8 +3296,8 @@
       "income": 81600,
       "monthlyExpenses": 22400,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Jenny Sauer",
@@ -3312,8 +3312,8 @@
       "income": 27000,
       "monthlyExpenses": 11700,
       "numberOfKids": 0,
-      "mortgage": 1130100,
-      "hasStudentLoans": true
+      "homeMortgage": 1130100,
+      "hasStudentLoan": true
     },
     {
       "name": "Melvin Hammes",
@@ -3328,8 +3328,8 @@
       "income": 45200,
       "monthlyExpenses": 8200,
       "numberOfKids": 0,
-      "mortgage": 5516000,
-      "hasStudentLoans": true
+      "homeMortgage": 5516000,
+      "hasStudentLoan": true
     },
     {
       "name": "Willard Emmerich",
@@ -3344,8 +3344,8 @@
       "income": 51300,
       "monthlyExpenses": 11500,
       "numberOfKids": 2,
-      "mortgage": 9073900,
-      "hasStudentLoans": true
+      "homeMortgage": 9073900,
+      "hasStudentLoan": true
     },
     {
       "name": "Nadine Marquardt",
@@ -3360,8 +3360,8 @@
       "income": 33400,
       "monthlyExpenses": 23500,
       "numberOfKids": 3,
-      "mortgage": 7293600,
-      "hasStudentLoans": true
+      "homeMortgage": 7293600,
+      "hasStudentLoan": true
     },
     {
       "name": "Mercedes Toy",
@@ -3376,8 +3376,8 @@
       "income": 36400,
       "monthlyExpenses": 13000,
       "numberOfKids": 2,
-      "mortgage": 1982600,
-      "hasStudentLoans": true
+      "homeMortgage": 1982600,
+      "hasStudentLoan": true
     },
     {
       "name": "Sam Mitchell",
@@ -3392,8 +3392,8 @@
       "income": 3100,
       "monthlyExpenses": 19300,
       "numberOfKids": 4,
-      "mortgage": 8395300,
-      "hasStudentLoans": false
+      "homeMortgage": 8395300,
+      "hasStudentLoan": false
     },
     {
       "name": "Ora Nader",
@@ -3408,8 +3408,8 @@
       "income": 60700,
       "monthlyExpenses": 19900,
       "numberOfKids": 1,
-      "mortgage": 2238200,
-      "hasStudentLoans": true
+      "homeMortgage": 2238200,
+      "hasStudentLoan": true
     },
     {
       "name": "Cecil Koch",
@@ -3424,8 +3424,8 @@
       "income": 51300,
       "monthlyExpenses": 29500,
       "numberOfKids": 3,
-      "mortgage": 9150700,
-      "hasStudentLoans": true
+      "homeMortgage": 9150700,
+      "hasStudentLoan": true
     },
     {
       "name": "Dale Quitzon",
@@ -3440,8 +3440,8 @@
       "income": 22100,
       "monthlyExpenses": 9100,
       "numberOfKids": 1,
-      "mortgage": 2539200,
-      "hasStudentLoans": true
+      "homeMortgage": 2539200,
+      "hasStudentLoan": true
     },
     {
       "name": "Veronica Waters",
@@ -3456,8 +3456,8 @@
       "income": 53300,
       "monthlyExpenses": 15100,
       "numberOfKids": 3,
-      "mortgage": 2740700,
-      "hasStudentLoans": true
+      "homeMortgage": 2740700,
+      "hasStudentLoan": true
     },
     {
       "name": "Abel Wintheiser",
@@ -3472,8 +3472,8 @@
       "income": 30900,
       "monthlyExpenses": 5500,
       "numberOfKids": 3,
-      "mortgage": 9149000,
-      "hasStudentLoans": true
+      "homeMortgage": 9149000,
+      "hasStudentLoan": true
     },
     {
       "name": "Reginald Nienow",
@@ -3488,8 +3488,8 @@
       "income": 61500,
       "monthlyExpenses": 14900,
       "numberOfKids": 0,
-      "mortgage": 5337600,
-      "hasStudentLoans": true
+      "homeMortgage": 5337600,
+      "hasStudentLoan": true
     },
     {
       "name": "Kerry Gislason",
@@ -3504,8 +3504,8 @@
       "income": 1900,
       "monthlyExpenses": 91400,
       "numberOfKids": 1,
-      "mortgage": 106800,
-      "hasStudentLoans": false
+      "homeMortgage": 106800,
+      "hasStudentLoan": false
     },
     {
       "name": "Angelina Nitzsche",
@@ -3520,8 +3520,8 @@
       "income": 52800,
       "monthlyExpenses": 2300,
       "numberOfKids": 2,
-      "mortgage": 2233900,
-      "hasStudentLoans": false
+      "homeMortgage": 2233900,
+      "hasStudentLoan": false
     },
     {
       "name": "Ricky Daugherty",
@@ -3536,8 +3536,8 @@
       "income": 42700,
       "monthlyExpenses": 2100,
       "numberOfKids": 2,
-      "mortgage": 5757700,
-      "hasStudentLoans": true
+      "homeMortgage": 5757700,
+      "hasStudentLoan": true
     },
     {
       "name": "Elmer Erdman",
@@ -3552,8 +3552,8 @@
       "income": 77500,
       "monthlyExpenses": 12200,
       "numberOfKids": 3,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Emma Lueilwitz",
@@ -3568,8 +3568,8 @@
       "income": 25200,
       "monthlyExpenses": 39500,
       "numberOfKids": 2,
-      "mortgage": 8934500,
-      "hasStudentLoans": true
+      "homeMortgage": 8934500,
+      "hasStudentLoan": true
     },
     {
       "name": "Luther Tromp",
@@ -3584,8 +3584,8 @@
       "income": 44500,
       "monthlyExpenses": 12800,
       "numberOfKids": 3,
-      "mortgage": 4500600,
-      "hasStudentLoans": true
+      "homeMortgage": 4500600,
+      "hasStudentLoan": true
     },
     {
       "name": "Lynne O\u0027Kon",
@@ -3600,8 +3600,8 @@
       "income": 1300,
       "monthlyExpenses": 72600,
       "numberOfKids": 4,
-      "mortgage": 961000,
-      "hasStudentLoans": false
+      "homeMortgage": 961000,
+      "hasStudentLoan": false
     },
     {
       "name": "Toni Conroy",
@@ -3616,8 +3616,8 @@
       "income": 28100,
       "monthlyExpenses": 16900,
       "numberOfKids": 2,
-      "mortgage": 416100,
-      "hasStudentLoans": true
+      "homeMortgage": 416100,
+      "hasStudentLoan": true
     },
     {
       "name": "Connie Larson",
@@ -3632,8 +3632,8 @@
       "income": 15300,
       "monthlyExpenses": 29600,
       "numberOfKids": 1,
-      "mortgage": 3621200,
-      "hasStudentLoans": false
+      "homeMortgage": 3621200,
+      "hasStudentLoan": false
     },
     {
       "name": "Olive Daniel",
@@ -3648,8 +3648,8 @@
       "income": 15600,
       "monthlyExpenses": 20200,
       "numberOfKids": 0,
-      "mortgage": 7070500,
-      "hasStudentLoans": false
+      "homeMortgage": 7070500,
+      "hasStudentLoan": false
     },
     {
       "name": "Javier Steuber",
@@ -3664,8 +3664,8 @@
       "income": 4100,
       "monthlyExpenses": 63800,
       "numberOfKids": 1,
-      "mortgage": 3211600,
-      "hasStudentLoans": false
+      "homeMortgage": 3211600,
+      "hasStudentLoan": false
     },
     {
       "name": "Geoffrey Kunde",
@@ -3680,8 +3680,8 @@
       "income": 37400,
       "monthlyExpenses": 20200,
       "numberOfKids": 0,
-      "mortgage": 9240800,
-      "hasStudentLoans": true
+      "homeMortgage": 9240800,
+      "hasStudentLoan": true
     },
     {
       "name": "Ruby Frami",
@@ -3696,8 +3696,8 @@
       "income": 39800,
       "monthlyExpenses": 47100,
       "numberOfKids": 1,
-      "mortgage": 7248200,
-      "hasStudentLoans": true
+      "homeMortgage": 7248200,
+      "hasStudentLoan": true
     },
     {
       "name": "Marjorie Bruen",
@@ -3712,8 +3712,8 @@
       "income": 34800,
       "monthlyExpenses": 29000,
       "numberOfKids": 5,
-      "mortgage": 5370700,
-      "hasStudentLoans": true
+      "homeMortgage": 5370700,
+      "hasStudentLoan": true
     },
     {
       "name": "Thelma Bartoletti",
@@ -3728,8 +3728,8 @@
       "income": 3200,
       "monthlyExpenses": 30800,
       "numberOfKids": 5,
-      "mortgage": 6688100,
-      "hasStudentLoans": true
+      "homeMortgage": 6688100,
+      "hasStudentLoan": true
     },
     {
       "name": "Jimmy Rempel",
@@ -3744,8 +3744,8 @@
       "income": 0,
       "monthlyExpenses": 49700,
       "numberOfKids": 4,
-      "mortgage": 8889600,
-      "hasStudentLoans": true
+      "homeMortgage": 8889600,
+      "hasStudentLoan": true
     },
     {
       "name": "Bennie Haley",
@@ -3760,8 +3760,8 @@
       "income": 49900,
       "monthlyExpenses": 9600,
       "numberOfKids": 0,
-      "mortgage": 3155600,
-      "hasStudentLoans": true
+      "homeMortgage": 3155600,
+      "hasStudentLoan": true
     },
     {
       "name": "Muriel Blanda",
@@ -3776,8 +3776,8 @@
       "income": 38900,
       "monthlyExpenses": 82900,
       "numberOfKids": 2,
-      "mortgage": 9372700,
-      "hasStudentLoans": false
+      "homeMortgage": 9372700,
+      "hasStudentLoan": false
     },
     {
       "name": "Benny O\u0027Reilly",
@@ -3792,8 +3792,8 @@
       "income": 28000,
       "monthlyExpenses": 103100,
       "numberOfKids": 0,
-      "mortgage": 7841800,
-      "hasStudentLoans": false
+      "homeMortgage": 7841800,
+      "hasStudentLoan": false
     },
     {
       "name": "Donald Runte",
@@ -3808,8 +3808,8 @@
       "income": 25000,
       "monthlyExpenses": 25300,
       "numberOfKids": 2,
-      "mortgage": 3367100,
-      "hasStudentLoans": false
+      "homeMortgage": 3367100,
+      "hasStudentLoan": false
     },
     {
       "name": "Guadalupe Reinger",
@@ -3824,8 +3824,8 @@
       "income": 12800,
       "monthlyExpenses": 126500,
       "numberOfKids": 0,
-      "mortgage": 1843400,
-      "hasStudentLoans": false
+      "homeMortgage": 1843400,
+      "hasStudentLoan": false
     },
     {
       "name": "Megan Waelchi",
@@ -3840,8 +3840,8 @@
       "income": 5200,
       "monthlyExpenses": 21200,
       "numberOfKids": 0,
-      "mortgage": 1951300,
-      "hasStudentLoans": true
+      "homeMortgage": 1951300,
+      "hasStudentLoan": true
     },
     {
       "name": "Kathleen Koelpin",
@@ -3856,8 +3856,8 @@
       "income": 51500,
       "monthlyExpenses": 8600,
       "numberOfKids": 0,
-      "mortgage": 5013600,
-      "hasStudentLoans": false
+      "homeMortgage": 5013600,
+      "hasStudentLoan": false
     },
     {
       "name": "Terry Schowalter",
@@ -3872,8 +3872,8 @@
       "income": 4900,
       "monthlyExpenses": 105800,
       "numberOfKids": 1,
-      "mortgage": 7785800,
-      "hasStudentLoans": true
+      "homeMortgage": 7785800,
+      "hasStudentLoan": true
     },
     {
       "name": "Vernon Legros",
@@ -3888,8 +3888,8 @@
       "income": 24400,
       "monthlyExpenses": 140000,
       "numberOfKids": 2,
-      "mortgage": 3455600,
-      "hasStudentLoans": false
+      "homeMortgage": 3455600,
+      "hasStudentLoan": false
     },
     {
       "name": "Felipe Greenholt",
@@ -3904,8 +3904,8 @@
       "income": 60600,
       "monthlyExpenses": 13100,
       "numberOfKids": 1,
-      "mortgage": 6715200,
-      "hasStudentLoans": false
+      "homeMortgage": 6715200,
+      "hasStudentLoan": false
     },
     {
       "name": "Marlon Friesen",
@@ -3920,8 +3920,8 @@
       "income": 39900,
       "monthlyExpenses": 15600,
       "numberOfKids": 1,
-      "mortgage": 2383400,
-      "hasStudentLoans": true
+      "homeMortgage": 2383400,
+      "hasStudentLoan": true
     },
     {
       "name": "Glenn Bednar",
@@ -3936,8 +3936,8 @@
       "income": 3200,
       "monthlyExpenses": 103400,
       "numberOfKids": 4,
-      "mortgage": 7634400,
-      "hasStudentLoans": true
+      "homeMortgage": 7634400,
+      "hasStudentLoan": true
     },
     {
       "name": "Kristen Schroeder",
@@ -3952,8 +3952,8 @@
       "income": 2400,
       "monthlyExpenses": 152700,
       "numberOfKids": 0,
-      "mortgage": 7725500,
-      "hasStudentLoans": false
+      "homeMortgage": 7725500,
+      "hasStudentLoan": false
     },
     {
       "name": "Suzanne Orn",
@@ -3968,8 +3968,8 @@
       "income": 27300,
       "monthlyExpenses": 8600,
       "numberOfKids": 0,
-      "mortgage": 3759500,
-      "hasStudentLoans": true
+      "homeMortgage": 3759500,
+      "hasStudentLoan": true
     },
     {
       "name": "Sarah Hackett",
@@ -3984,8 +3984,8 @@
       "income": 20500,
       "monthlyExpenses": 2300,
       "numberOfKids": 2,
-      "mortgage": 985500,
-      "hasStudentLoans": false
+      "homeMortgage": 985500,
+      "hasStudentLoan": false
     },
     {
       "name": "Devin Collins",
@@ -4000,8 +4000,8 @@
       "income": 6400,
       "monthlyExpenses": 114800,
       "numberOfKids": 3,
-      "mortgage": 9201100,
-      "hasStudentLoans": true
+      "homeMortgage": 9201100,
+      "hasStudentLoan": true
     },
     {
       "name": "Marjorie Price",
@@ -4016,8 +4016,8 @@
       "income": 49700,
       "monthlyExpenses": 23300,
       "numberOfKids": 0,
-      "mortgage": 1280400,
-      "hasStudentLoans": false
+      "homeMortgage": 1280400,
+      "hasStudentLoan": false
     },
     {
       "name": "Ian Gorczany",
@@ -4032,8 +4032,8 @@
       "income": 3300,
       "monthlyExpenses": 74300,
       "numberOfKids": 0,
-      "mortgage": 4274600,
-      "hasStudentLoans": false
+      "homeMortgage": 4274600,
+      "hasStudentLoan": false
     },
     {
       "name": "Herman Collier",
@@ -4048,8 +4048,8 @@
       "income": 1800,
       "monthlyExpenses": 37300,
       "numberOfKids": 1,
-      "mortgage": 3901200,
-      "hasStudentLoans": true
+      "homeMortgage": 3901200,
+      "hasStudentLoan": true
     },
     {
       "name": "Mark Predovic",
@@ -4064,8 +4064,8 @@
       "income": 4100,
       "monthlyExpenses": 91900,
       "numberOfKids": 2,
-      "mortgage": 684900,
-      "hasStudentLoans": false
+      "homeMortgage": 684900,
+      "hasStudentLoan": false
     },
     {
       "name": "Cindy Christiansen",
@@ -4080,8 +4080,8 @@
       "income": 60500,
       "monthlyExpenses": 23600,
       "numberOfKids": 0,
-      "mortgage": 384700,
-      "hasStudentLoans": true
+      "homeMortgage": 384700,
+      "hasStudentLoan": true
     },
     {
       "name": "Jeannette Mills",
@@ -4096,8 +4096,8 @@
       "income": 5800,
       "monthlyExpenses": 169600,
       "numberOfKids": 3,
-      "mortgage": 1398000,
-      "hasStudentLoans": false
+      "homeMortgage": 1398000,
+      "hasStudentLoan": false
     },
     {
       "name": "Marcus Davis",
@@ -4112,8 +4112,8 @@
       "income": 58700,
       "monthlyExpenses": 25500,
       "numberOfKids": 0,
-      "mortgage": 1026200,
-      "hasStudentLoans": true
+      "homeMortgage": 1026200,
+      "hasStudentLoan": true
     },
     {
       "name": "Charlie Collins",
@@ -4128,8 +4128,8 @@
       "income": 75600,
       "monthlyExpenses": 15100,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Meredith Dach",
@@ -4144,8 +4144,8 @@
       "income": 51600,
       "monthlyExpenses": 22500,
       "numberOfKids": 0,
-      "mortgage": 7260600,
-      "hasStudentLoans": false
+      "homeMortgage": 7260600,
+      "hasStudentLoan": false
     },
     {
       "name": "Tasha Rohan",
@@ -4160,8 +4160,8 @@
       "income": 2700,
       "monthlyExpenses": 27700,
       "numberOfKids": 2,
-      "mortgage": 5353500,
-      "hasStudentLoans": false
+      "homeMortgage": 5353500,
+      "hasStudentLoan": false
     },
     {
       "name": "Al Doyle",
@@ -4176,8 +4176,8 @@
       "income": 9000,
       "monthlyExpenses": 186700,
       "numberOfKids": 0,
-      "mortgage": 4358000,
-      "hasStudentLoans": true
+      "homeMortgage": 4358000,
+      "hasStudentLoan": true
     },
     {
       "name": "Carl Hagenes",
@@ -4192,8 +4192,8 @@
       "income": 98900,
       "monthlyExpenses": 13500,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Roman Harvey",
@@ -4208,8 +4208,8 @@
       "income": 38100,
       "monthlyExpenses": 74400,
       "numberOfKids": 0,
-      "mortgage": 8462800,
-      "hasStudentLoans": false
+      "homeMortgage": 8462800,
+      "hasStudentLoan": false
     },
     {
       "name": "Woodrow Hauck",
@@ -4224,8 +4224,8 @@
       "income": 19100,
       "monthlyExpenses": 22000,
       "numberOfKids": 2,
-      "mortgage": 1289400,
-      "hasStudentLoans": false
+      "homeMortgage": 1289400,
+      "hasStudentLoan": false
     },
     {
       "name": "Emmett Aufderhar",
@@ -4240,8 +4240,8 @@
       "income": 60700,
       "monthlyExpenses": 1600,
       "numberOfKids": 0,
-      "mortgage": 9939000,
-      "hasStudentLoans": true
+      "homeMortgage": 9939000,
+      "hasStudentLoan": true
     },
     {
       "name": "Gregory Thiel",
@@ -4256,8 +4256,8 @@
       "income": 36400,
       "monthlyExpenses": 9900,
       "numberOfKids": 0,
-      "mortgage": 1738900,
-      "hasStudentLoans": true
+      "homeMortgage": 1738900,
+      "hasStudentLoan": true
     },
     {
       "name": "Ann Price",
@@ -4272,8 +4272,8 @@
       "income": 42100,
       "monthlyExpenses": 9900,
       "numberOfKids": 1,
-      "mortgage": 7888900,
-      "hasStudentLoans": true
+      "homeMortgage": 7888900,
+      "hasStudentLoan": true
     },
     {
       "name": "Louis Yundt",
@@ -4288,8 +4288,8 @@
       "income": 4700,
       "monthlyExpenses": 27900,
       "numberOfKids": 0,
-      "mortgage": 4298700,
-      "hasStudentLoans": false
+      "homeMortgage": 4298700,
+      "hasStudentLoan": false
     },
     {
       "name": "Casey Buckridge",
@@ -4304,8 +4304,8 @@
       "income": 3300,
       "monthlyExpenses": 194700,
       "numberOfKids": 1,
-      "mortgage": 2783200,
-      "hasStudentLoans": false
+      "homeMortgage": 2783200,
+      "hasStudentLoan": false
     },
     {
       "name": "Meghan Cronin",
@@ -4320,8 +4320,8 @@
       "income": 50700,
       "monthlyExpenses": 13500,
       "numberOfKids": 3,
-      "mortgage": 3666500,
-      "hasStudentLoans": true
+      "homeMortgage": 3666500,
+      "hasStudentLoan": true
     },
     {
       "name": "Verna Baumbach",
@@ -4336,8 +4336,8 @@
       "income": 19200,
       "monthlyExpenses": 7400,
       "numberOfKids": 0,
-      "mortgage": 968600,
-      "hasStudentLoans": false
+      "homeMortgage": 968600,
+      "hasStudentLoan": false
     },
     {
       "name": "John Zulauf",
@@ -4352,8 +4352,8 @@
       "income": 31300,
       "monthlyExpenses": 18900,
       "numberOfKids": 2,
-      "mortgage": 7110200,
-      "hasStudentLoans": false
+      "homeMortgage": 7110200,
+      "hasStudentLoan": false
     },
     {
       "name": "Victoria Tromp",
@@ -4368,8 +4368,8 @@
       "income": 2400,
       "monthlyExpenses": 25200,
       "numberOfKids": 4,
-      "mortgage": 2423000,
-      "hasStudentLoans": true
+      "homeMortgage": 2423000,
+      "hasStudentLoan": true
     },
     {
       "name": "Tommy Lakin",
@@ -4384,8 +4384,8 @@
       "income": 6100,
       "monthlyExpenses": 84600,
       "numberOfKids": 1,
-      "mortgage": 6149000,
-      "hasStudentLoans": true
+      "homeMortgage": 6149000,
+      "hasStudentLoan": true
     },
     {
       "name": "Joy Bradtke",
@@ -4400,8 +4400,8 @@
       "income": 73400,
       "monthlyExpenses": 9100,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Ted McClure",
@@ -4416,8 +4416,8 @@
       "income": 7000,
       "monthlyExpenses": 14400,
       "numberOfKids": 5,
-      "mortgage": 1691700,
-      "hasStudentLoans": false
+      "homeMortgage": 1691700,
+      "hasStudentLoan": false
     },
     {
       "name": "Phyllis Turner",
@@ -4432,8 +4432,8 @@
       "income": 17800,
       "monthlyExpenses": 22800,
       "numberOfKids": 3,
-      "mortgage": 7399000,
-      "hasStudentLoans": false
+      "homeMortgage": 7399000,
+      "hasStudentLoan": false
     },
     {
       "name": "Rosie MacGyver",
@@ -4448,8 +4448,8 @@
       "income": 2600,
       "monthlyExpenses": 27600,
       "numberOfKids": 3,
-      "mortgage": 4161700,
-      "hasStudentLoans": false
+      "homeMortgage": 4161700,
+      "hasStudentLoan": false
     },
     {
       "name": "Todd Gutmann",
@@ -4464,8 +4464,8 @@
       "income": 2100,
       "monthlyExpenses": 100700,
       "numberOfKids": 4,
-      "mortgage": 2218000,
-      "hasStudentLoans": false
+      "homeMortgage": 2218000,
+      "hasStudentLoan": false
     },
     {
       "name": "Tara Windler",
@@ -4480,8 +4480,8 @@
       "income": 84100,
       "monthlyExpenses": 14500,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Brandi West",
@@ -4496,8 +4496,8 @@
       "income": 96500,
       "monthlyExpenses": 18400,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Brandon Daniel",
@@ -4512,8 +4512,8 @@
       "income": 90700,
       "monthlyExpenses": 24400,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Regina O\u0027Keefe",
@@ -4528,8 +4528,8 @@
       "income": 1900,
       "monthlyExpenses": 18600,
       "numberOfKids": 2,
-      "mortgage": 3477900,
-      "hasStudentLoans": true
+      "homeMortgage": 3477900,
+      "hasStudentLoan": true
     },
     {
       "name": "Melvin Boehm",
@@ -4544,8 +4544,8 @@
       "income": 14200,
       "monthlyExpenses": 83600,
       "numberOfKids": 1,
-      "mortgage": 5314700,
-      "hasStudentLoans": false
+      "homeMortgage": 5314700,
+      "hasStudentLoan": false
     },
     {
       "name": "Angela Hegmann",
@@ -4560,8 +4560,8 @@
       "income": 42400,
       "monthlyExpenses": 21100,
       "numberOfKids": 2,
-      "mortgage": 1121500,
-      "hasStudentLoans": false
+      "homeMortgage": 1121500,
+      "hasStudentLoan": false
     },
     {
       "name": "Ruby Crona",
@@ -4576,8 +4576,8 @@
       "income": 1200,
       "monthlyExpenses": 87700,
       "numberOfKids": 5,
-      "mortgage": 160700,
-      "hasStudentLoans": false
+      "homeMortgage": 160700,
+      "hasStudentLoan": false
     },
     {
       "name": "Dolores Turcotte",
@@ -4592,8 +4592,8 @@
       "income": 85000,
       "monthlyExpenses": 25000,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Thomas Rath",
@@ -4608,8 +4608,8 @@
       "income": 56100,
       "monthlyExpenses": 29800,
       "numberOfKids": 5,
-      "mortgage": 8214800,
-      "hasStudentLoans": false
+      "homeMortgage": 8214800,
+      "hasStudentLoan": false
     },
     {
       "name": "Blanche D\u0027Amore",
@@ -4624,8 +4624,8 @@
       "income": 31800,
       "monthlyExpenses": 103000,
       "numberOfKids": 4,
-      "mortgage": 8160100,
-      "hasStudentLoans": true
+      "homeMortgage": 8160100,
+      "hasStudentLoan": true
     },
     {
       "name": "Pat Predovic",
@@ -4640,8 +4640,8 @@
       "income": 1900,
       "monthlyExpenses": 91500,
       "numberOfKids": 1,
-      "mortgage": 6732600,
-      "hasStudentLoans": false
+      "homeMortgage": 6732600,
+      "hasStudentLoan": false
     },
     {
       "name": "Audrey Wisoky",
@@ -4656,8 +4656,8 @@
       "income": 82000,
       "monthlyExpenses": 21500,
       "numberOfKids": 3,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Roberto Dibbert",
@@ -4672,8 +4672,8 @@
       "income": 10200,
       "monthlyExpenses": 26500,
       "numberOfKids": 1,
-      "mortgage": 9309700,
-      "hasStudentLoans": false
+      "homeMortgage": 9309700,
+      "hasStudentLoan": false
     },
     {
       "name": "Alvin Gottlieb",
@@ -4688,8 +4688,8 @@
       "income": 4100,
       "monthlyExpenses": 76400,
       "numberOfKids": 4,
-      "mortgage": 3654900,
-      "hasStudentLoans": true
+      "homeMortgage": 3654900,
+      "hasStudentLoan": true
     },
     {
       "name": "Rosemarie Green",
@@ -4704,8 +4704,8 @@
       "income": 47700,
       "monthlyExpenses": 11500,
       "numberOfKids": 0,
-      "mortgage": 336600,
-      "hasStudentLoans": false
+      "homeMortgage": 336600,
+      "hasStudentLoan": false
     },
     {
       "name": "Terry Rosenbaum",
@@ -4720,8 +4720,8 @@
       "income": 25100,
       "monthlyExpenses": 179600,
       "numberOfKids": 1,
-      "mortgage": 1751500,
-      "hasStudentLoans": true
+      "homeMortgage": 1751500,
+      "hasStudentLoan": true
     },
     {
       "name": "Santiago Towne",
@@ -4736,8 +4736,8 @@
       "income": 21100,
       "monthlyExpenses": 2400,
       "numberOfKids": 0,
-      "mortgage": 351000,
-      "hasStudentLoans": false
+      "homeMortgage": 351000,
+      "hasStudentLoan": false
     },
     {
       "name": "Aaron Luettgen",
@@ -4752,8 +4752,8 @@
       "income": 11300,
       "monthlyExpenses": 18400,
       "numberOfKids": 3,
-      "mortgage": 1237300,
-      "hasStudentLoans": false
+      "homeMortgage": 1237300,
+      "hasStudentLoan": false
     },
     {
       "name": "Roberta Feeney",
@@ -4768,8 +4768,8 @@
       "income": 61800,
       "monthlyExpenses": 6800,
       "numberOfKids": 3,
-      "mortgage": 9354100,
-      "hasStudentLoans": false
+      "homeMortgage": 9354100,
+      "hasStudentLoan": false
     },
     {
       "name": "Edgar Casper",
@@ -4784,8 +4784,8 @@
       "income": 46900,
       "monthlyExpenses": 7800,
       "numberOfKids": 0,
-      "mortgage": 7542000,
-      "hasStudentLoans": true
+      "homeMortgage": 7542000,
+      "hasStudentLoan": true
     },
     {
       "name": "Edna Stiedemann",
@@ -4800,8 +4800,8 @@
       "income": 52600,
       "monthlyExpenses": 17300,
       "numberOfKids": 3,
-      "mortgage": 9247900,
-      "hasStudentLoans": false
+      "homeMortgage": 9247900,
+      "hasStudentLoan": false
     },
     {
       "name": "Owen Brekke",
@@ -4816,8 +4816,8 @@
       "income": 1700,
       "monthlyExpenses": 165500,
       "numberOfKids": 0,
-      "mortgage": 4884500,
-      "hasStudentLoans": true
+      "homeMortgage": 4884500,
+      "hasStudentLoan": true
     },
     {
       "name": "Barbara Huel",
@@ -4832,8 +4832,8 @@
       "income": 27000,
       "monthlyExpenses": 7200,
       "numberOfKids": 2,
-      "mortgage": 7515300,
-      "hasStudentLoans": true
+      "homeMortgage": 7515300,
+      "hasStudentLoan": true
     },
     {
       "name": "Adrian Braun",
@@ -4848,8 +4848,8 @@
       "income": 57800,
       "monthlyExpenses": 12000,
       "numberOfKids": 2,
-      "mortgage": 231000,
-      "hasStudentLoans": true
+      "homeMortgage": 231000,
+      "hasStudentLoan": true
     },
     {
       "name": "Israel Runte",
@@ -4864,8 +4864,8 @@
       "income": 3600,
       "monthlyExpenses": 43500,
       "numberOfKids": 2,
-      "mortgage": 4271100,
-      "hasStudentLoans": true
+      "homeMortgage": 4271100,
+      "hasStudentLoan": true
     },
     {
       "name": "Roxanne Durgan",
@@ -4880,8 +4880,8 @@
       "income": 3700,
       "monthlyExpenses": 17800,
       "numberOfKids": 4,
-      "mortgage": 5166200,
-      "hasStudentLoans": false
+      "homeMortgage": 5166200,
+      "hasStudentLoan": false
     },
     {
       "name": "Lee Kassulke",
@@ -4896,8 +4896,8 @@
       "income": 54400,
       "monthlyExpenses": 23500,
       "numberOfKids": 3,
-      "mortgage": 589200,
-      "hasStudentLoans": false
+      "homeMortgage": 589200,
+      "hasStudentLoan": false
     },
     {
       "name": "Colleen Kertzmann",
@@ -4912,8 +4912,8 @@
       "income": 32600,
       "monthlyExpenses": 71200,
       "numberOfKids": 1,
-      "mortgage": 7494800,
-      "hasStudentLoans": true
+      "homeMortgage": 7494800,
+      "hasStudentLoan": true
     },
     {
       "name": "Catherine Jast",
@@ -4928,8 +4928,8 @@
       "income": 12300,
       "monthlyExpenses": 198000,
       "numberOfKids": 1,
-      "mortgage": 8333300,
-      "hasStudentLoans": false
+      "homeMortgage": 8333300,
+      "hasStudentLoan": false
     },
     {
       "name": "Ernestine Dickinson",
@@ -4944,8 +4944,8 @@
       "income": 3300,
       "monthlyExpenses": 65800,
       "numberOfKids": 2,
-      "mortgage": 4300200,
-      "hasStudentLoans": true
+      "homeMortgage": 4300200,
+      "hasStudentLoan": true
     },
     {
       "name": "Rebecca Walsh",
@@ -4960,8 +4960,8 @@
       "income": 19800,
       "monthlyExpenses": 7500,
       "numberOfKids": 4,
-      "mortgage": 6035800,
-      "hasStudentLoans": false
+      "homeMortgage": 6035800,
+      "hasStudentLoan": false
     },
     {
       "name": "Bob DuBuque",
@@ -4976,8 +4976,8 @@
       "income": 99000,
       "monthlyExpenses": 10900,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Ashley Harris",
@@ -4992,8 +4992,8 @@
       "income": 38100,
       "monthlyExpenses": 144100,
       "numberOfKids": 0,
-      "mortgage": 7068600,
-      "hasStudentLoans": true
+      "homeMortgage": 7068600,
+      "hasStudentLoan": true
     },
     {
       "name": "Regina Hamill",
@@ -5008,8 +5008,8 @@
       "income": 39100,
       "monthlyExpenses": 6500,
       "numberOfKids": 3,
-      "mortgage": 4981200,
-      "hasStudentLoans": false
+      "homeMortgage": 4981200,
+      "hasStudentLoan": false
     },
     {
       "name": "Brandi Keebler",
@@ -5024,8 +5024,8 @@
       "income": 3500,
       "monthlyExpenses": 55300,
       "numberOfKids": 0,
-      "mortgage": 5293100,
-      "hasStudentLoans": true
+      "homeMortgage": 5293100,
+      "hasStudentLoan": true
     },
     {
       "name": "Michael Nitzsche",
@@ -5040,8 +5040,8 @@
       "income": 96300,
       "monthlyExpenses": 19400,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Leigh D\u0027Amore",
@@ -5056,8 +5056,8 @@
       "income": 44100,
       "monthlyExpenses": 2400,
       "numberOfKids": 0,
-      "mortgage": 3011100,
-      "hasStudentLoans": false
+      "homeMortgage": 3011100,
+      "hasStudentLoan": false
     },
     {
       "name": "Sadie Steuber",
@@ -5072,8 +5072,8 @@
       "income": 98000,
       "monthlyExpenses": 10600,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Gerard Parisian",
@@ -5088,8 +5088,8 @@
       "income": 15700,
       "monthlyExpenses": 188400,
       "numberOfKids": 4,
-      "mortgage": 3901400,
-      "hasStudentLoans": true
+      "homeMortgage": 3901400,
+      "hasStudentLoan": true
     },
     {
       "name": "Sophie Gutkowski",
@@ -5104,8 +5104,8 @@
       "income": 32100,
       "monthlyExpenses": 8600,
       "numberOfKids": 4,
-      "mortgage": 8641400,
-      "hasStudentLoans": false
+      "homeMortgage": 8641400,
+      "hasStudentLoan": false
     },
     {
       "name": "Angela Bode",
@@ -5120,8 +5120,8 @@
       "income": 39200,
       "monthlyExpenses": 9200,
       "numberOfKids": 1,
-      "mortgage": 8229700,
-      "hasStudentLoans": true
+      "homeMortgage": 8229700,
+      "hasStudentLoan": true
     },
     {
       "name": "Kim Emard",
@@ -5136,8 +5136,8 @@
       "income": 43400,
       "monthlyExpenses": 55000,
       "numberOfKids": 3,
-      "mortgage": 659700,
-      "hasStudentLoans": true
+      "homeMortgage": 659700,
+      "hasStudentLoan": true
     },
     {
       "name": "George Hilll",
@@ -5152,8 +5152,8 @@
       "income": 90100,
       "monthlyExpenses": 26900,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Raul Klein",
@@ -5168,8 +5168,8 @@
       "income": 3000,
       "monthlyExpenses": 34000,
       "numberOfKids": 0,
-      "mortgage": 3112000,
-      "hasStudentLoans": false
+      "homeMortgage": 3112000,
+      "hasStudentLoan": false
     },
     {
       "name": "Marshall Zieme",
@@ -5184,8 +5184,8 @@
       "income": 43000,
       "monthlyExpenses": 4600,
       "numberOfKids": 2,
-      "mortgage": 5068600,
-      "hasStudentLoans": true
+      "homeMortgage": 5068600,
+      "hasStudentLoan": true
     },
     {
       "name": "Marlon Jaskolski",
@@ -5200,8 +5200,8 @@
       "income": 16800,
       "monthlyExpenses": 3100,
       "numberOfKids": 2,
-      "mortgage": 2849000,
-      "hasStudentLoans": true
+      "homeMortgage": 2849000,
+      "hasStudentLoan": true
     },
     {
       "name": "Edna Zboncak",
@@ -5216,8 +5216,8 @@
       "income": 9200,
       "monthlyExpenses": 70700,
       "numberOfKids": 1,
-      "mortgage": 2426900,
-      "hasStudentLoans": true
+      "homeMortgage": 2426900,
+      "hasStudentLoan": true
     },
     {
       "name": "Henrietta Hoppe",
@@ -5232,8 +5232,8 @@
       "income": 30800,
       "monthlyExpenses": 11900,
       "numberOfKids": 2,
-      "mortgage": 176000,
-      "hasStudentLoans": true
+      "homeMortgage": 176000,
+      "hasStudentLoan": true
     },
     {
       "name": "Jessica Kemmer",
@@ -5248,8 +5248,8 @@
       "income": 50800,
       "monthlyExpenses": 19800,
       "numberOfKids": 4,
-      "mortgage": 7989500,
-      "hasStudentLoans": false
+      "homeMortgage": 7989500,
+      "hasStudentLoan": false
     },
     {
       "name": "Theodore Ebert",
@@ -5264,8 +5264,8 @@
       "income": 2400,
       "monthlyExpenses": 59900,
       "numberOfKids": 5,
-      "mortgage": 6764300,
-      "hasStudentLoans": true
+      "homeMortgage": 6764300,
+      "hasStudentLoan": true
     },
     {
       "name": "Saul Kub",
@@ -5280,8 +5280,8 @@
       "income": 4900,
       "monthlyExpenses": 28600,
       "numberOfKids": 2,
-      "mortgage": 1125600,
-      "hasStudentLoans": true
+      "homeMortgage": 1125600,
+      "hasStudentLoan": true
     },
     {
       "name": "Amy Ferry",
@@ -5296,8 +5296,8 @@
       "income": 45700,
       "monthlyExpenses": 80100,
       "numberOfKids": 4,
-      "mortgage": 7823600,
-      "hasStudentLoans": false
+      "homeMortgage": 7823600,
+      "hasStudentLoan": false
     },
     {
       "name": "Janis Carroll",
@@ -5312,8 +5312,8 @@
       "income": 2100,
       "monthlyExpenses": 23200,
       "numberOfKids": 0,
-      "mortgage": 8564300,
-      "hasStudentLoans": true
+      "homeMortgage": 8564300,
+      "hasStudentLoan": true
     },
     {
       "name": "Leigh Hansen",
@@ -5328,8 +5328,8 @@
       "income": 2100,
       "monthlyExpenses": 19900,
       "numberOfKids": 3,
-      "mortgage": 2731600,
-      "hasStudentLoans": true
+      "homeMortgage": 2731600,
+      "hasStudentLoan": true
     },
     {
       "name": "Cathy Schumm",
@@ -5344,8 +5344,8 @@
       "income": 44800,
       "monthlyExpenses": 10600,
       "numberOfKids": 3,
-      "mortgage": 3669100,
-      "hasStudentLoans": false
+      "homeMortgage": 3669100,
+      "hasStudentLoan": false
     },
     {
       "name": "Gene Boyle",
@@ -5360,8 +5360,8 @@
       "income": 21300,
       "monthlyExpenses": 27300,
       "numberOfKids": 0,
-      "mortgage": 6321000,
-      "hasStudentLoans": false
+      "homeMortgage": 6321000,
+      "hasStudentLoan": false
     },
     {
       "name": "Shirley Toy",
@@ -5376,8 +5376,8 @@
       "income": 6500,
       "monthlyExpenses": 22700,
       "numberOfKids": 3,
-      "mortgage": 3466200,
-      "hasStudentLoans": false
+      "homeMortgage": 3466200,
+      "hasStudentLoan": false
     },
     {
       "name": "George Mitchell",
@@ -5392,8 +5392,8 @@
       "income": 25300,
       "monthlyExpenses": 9600,
       "numberOfKids": 4,
-      "mortgage": 3432900,
-      "hasStudentLoans": true
+      "homeMortgage": 3432900,
+      "hasStudentLoan": true
     },
     {
       "name": "Alexis Thompson",
@@ -5408,8 +5408,8 @@
       "income": 62100,
       "monthlyExpenses": 3700,
       "numberOfKids": 0,
-      "mortgage": 3068800,
-      "hasStudentLoans": false
+      "homeMortgage": 3068800,
+      "hasStudentLoan": false
     },
     {
       "name": "Jose Homenick",
@@ -5424,8 +5424,8 @@
       "income": 28100,
       "monthlyExpenses": 50500,
       "numberOfKids": 1,
-      "mortgage": 994000,
-      "hasStudentLoans": true
+      "homeMortgage": 994000,
+      "hasStudentLoan": true
     },
     {
       "name": "Delbert McClure",
@@ -5440,8 +5440,8 @@
       "income": 32700,
       "monthlyExpenses": 16800,
       "numberOfKids": 0,
-      "mortgage": 185400,
-      "hasStudentLoans": false
+      "homeMortgage": 185400,
+      "hasStudentLoan": false
     },
     {
       "name": "Lee Paucek",
@@ -5456,8 +5456,8 @@
       "income": 16900,
       "monthlyExpenses": 15800,
       "numberOfKids": 5,
-      "mortgage": 1393200,
-      "hasStudentLoans": false
+      "homeMortgage": 1393200,
+      "hasStudentLoan": false
     },
     {
       "name": "Gregg Wintheiser",
@@ -5472,8 +5472,8 @@
       "income": 95900,
       "monthlyExpenses": 17300,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Loretta Rempel",
@@ -5488,8 +5488,8 @@
       "income": 3200,
       "monthlyExpenses": 103600,
       "numberOfKids": 1,
-      "mortgage": 1564600,
-      "hasStudentLoans": true
+      "homeMortgage": 1564600,
+      "hasStudentLoan": true
     },
     {
       "name": "Ron Quitzon",
@@ -5504,8 +5504,8 @@
       "income": 46400,
       "monthlyExpenses": 138700,
       "numberOfKids": 0,
-      "mortgage": 1132100,
-      "hasStudentLoans": false
+      "homeMortgage": 1132100,
+      "hasStudentLoan": false
     },
     {
       "name": "Felicia Quigley",
@@ -5520,8 +5520,8 @@
       "income": 84600,
       "monthlyExpenses": 12700,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Tabitha Dickens",
@@ -5536,8 +5536,8 @@
       "income": 4000,
       "monthlyExpenses": 100500,
       "numberOfKids": 1,
-      "mortgage": 3890300,
-      "hasStudentLoans": false
+      "homeMortgage": 3890300,
+      "hasStudentLoan": false
     },
     {
       "name": "Elias Shields",
@@ -5552,8 +5552,8 @@
       "income": 43800,
       "monthlyExpenses": 22600,
       "numberOfKids": 4,
-      "mortgage": 3039500,
-      "hasStudentLoans": true
+      "homeMortgage": 3039500,
+      "hasStudentLoan": true
     },
     {
       "name": "Miriam Lowe",
@@ -5568,8 +5568,8 @@
       "income": 3200,
       "monthlyExpenses": 55600,
       "numberOfKids": 3,
-      "mortgage": 9518000,
-      "hasStudentLoans": true
+      "homeMortgage": 9518000,
+      "hasStudentLoan": true
     },
     {
       "name": "Alma Bosco",
@@ -5584,8 +5584,8 @@
       "income": 79600,
       "monthlyExpenses": 16300,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Sadie Schulist",
@@ -5600,8 +5600,8 @@
       "income": 31800,
       "monthlyExpenses": 8400,
       "numberOfKids": 0,
-      "mortgage": 5588400,
-      "hasStudentLoans": false
+      "homeMortgage": 5588400,
+      "hasStudentLoan": false
     },
     {
       "name": "Emily Daniel",
@@ -5616,8 +5616,8 @@
       "income": 62400,
       "monthlyExpenses": 16300,
       "numberOfKids": 1,
-      "mortgage": 754400,
-      "hasStudentLoans": false
+      "homeMortgage": 754400,
+      "hasStudentLoan": false
     },
     {
       "name": "Allison Kozey",
@@ -5632,8 +5632,8 @@
       "income": 2700,
       "monthlyExpenses": 38600,
       "numberOfKids": 0,
-      "mortgage": 63400,
-      "hasStudentLoans": false
+      "homeMortgage": 63400,
+      "hasStudentLoan": false
     },
     {
       "name": "Ellen Kuvalis",
@@ -5648,8 +5648,8 @@
       "income": 37000,
       "monthlyExpenses": 9800,
       "numberOfKids": 0,
-      "mortgage": 9108400,
-      "hasStudentLoans": true
+      "homeMortgage": 9108400,
+      "hasStudentLoan": true
     },
     {
       "name": "Angel Rutherford",
@@ -5664,8 +5664,8 @@
       "income": 21600,
       "monthlyExpenses": 16500,
       "numberOfKids": 0,
-      "mortgage": 6539300,
-      "hasStudentLoans": true
+      "homeMortgage": 6539300,
+      "hasStudentLoan": true
     },
     {
       "name": "Jane Padberg",
@@ -5680,8 +5680,8 @@
       "income": 59400,
       "monthlyExpenses": 18500,
       "numberOfKids": 3,
-      "mortgage": 4623600,
-      "hasStudentLoans": true
+      "homeMortgage": 4623600,
+      "hasStudentLoan": true
     },
     {
       "name": "Angelica Balistreri",
@@ -5696,8 +5696,8 @@
       "income": 42800,
       "monthlyExpenses": 97000,
       "numberOfKids": 1,
-      "mortgage": 4813300,
-      "hasStudentLoans": false
+      "homeMortgage": 4813300,
+      "hasStudentLoan": false
     },
     {
       "name": "William Cremin",
@@ -5712,8 +5712,8 @@
       "income": 52300,
       "monthlyExpenses": 19800,
       "numberOfKids": 4,
-      "mortgage": 7699700,
-      "hasStudentLoans": false
+      "homeMortgage": 7699700,
+      "hasStudentLoan": false
     },
     {
       "name": "Hubert Durgan",
@@ -5728,8 +5728,8 @@
       "income": 12000,
       "monthlyExpenses": 32100,
       "numberOfKids": 0,
-      "mortgage": 9268600,
-      "hasStudentLoans": true
+      "homeMortgage": 9268600,
+      "hasStudentLoan": true
     },
     {
       "name": "Ignacio Kshlerin",
@@ -5744,8 +5744,8 @@
       "income": 35700,
       "monthlyExpenses": 152700,
       "numberOfKids": 3,
-      "mortgage": 6702800,
-      "hasStudentLoans": true
+      "homeMortgage": 6702800,
+      "hasStudentLoan": true
     },
     {
       "name": "Edmund Beier",
@@ -5760,8 +5760,8 @@
       "income": 15900,
       "monthlyExpenses": 141700,
       "numberOfKids": 5,
-      "mortgage": 5031100,
-      "hasStudentLoans": true
+      "homeMortgage": 5031100,
+      "hasStudentLoan": true
     },
     {
       "name": "Marilyn Bednar",
@@ -5776,8 +5776,8 @@
       "income": 31400,
       "monthlyExpenses": 3000,
       "numberOfKids": 1,
-      "mortgage": 3985100,
-      "hasStudentLoans": false
+      "homeMortgage": 3985100,
+      "hasStudentLoan": false
     },
     {
       "name": "Blanca Witting",
@@ -5792,8 +5792,8 @@
       "income": 21200,
       "monthlyExpenses": 25500,
       "numberOfKids": 2,
-      "mortgage": 6090900,
-      "hasStudentLoans": false
+      "homeMortgage": 6090900,
+      "hasStudentLoan": false
     },
     {
       "name": "Ellen Stanton",
@@ -5808,8 +5808,8 @@
       "income": 91000,
       "monthlyExpenses": 10200,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Preston Rosenbaum",
@@ -5824,8 +5824,8 @@
       "income": 83400,
       "monthlyExpenses": 7800,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Gregg Bartell",
@@ -5840,8 +5840,8 @@
       "income": 39600,
       "monthlyExpenses": 13900,
       "numberOfKids": 4,
-      "mortgage": 2969100,
-      "hasStudentLoans": true
+      "homeMortgage": 2969100,
+      "hasStudentLoan": true
     },
     {
       "name": "Dianna West",
@@ -5856,8 +5856,8 @@
       "income": 33800,
       "monthlyExpenses": 6300,
       "numberOfKids": 4,
-      "mortgage": 103100,
-      "hasStudentLoans": false
+      "homeMortgage": 103100,
+      "hasStudentLoan": false
     },
     {
       "name": "Diana Heller",
@@ -5872,8 +5872,8 @@
       "income": 1600,
       "monthlyExpenses": 18000,
       "numberOfKids": 3,
-      "mortgage": 4458500,
-      "hasStudentLoans": false
+      "homeMortgage": 4458500,
+      "hasStudentLoan": false
     },
     {
       "name": "Vanessa Hegmann",
@@ -5888,8 +5888,8 @@
       "income": 3500,
       "monthlyExpenses": 104400,
       "numberOfKids": 0,
-      "mortgage": 7289300,
-      "hasStudentLoans": false
+      "homeMortgage": 7289300,
+      "hasStudentLoan": false
     },
     {
       "name": "Sheri Botsford",
@@ -5904,8 +5904,8 @@
       "income": 30700,
       "monthlyExpenses": 1300,
       "numberOfKids": 3,
-      "mortgage": 2802400,
-      "hasStudentLoans": false
+      "homeMortgage": 2802400,
+      "hasStudentLoan": false
     },
     {
       "name": "Pearl Hodkiewicz",
@@ -5920,8 +5920,8 @@
       "income": 92500,
       "monthlyExpenses": 19600,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Alonzo Thompson",
@@ -5936,8 +5936,8 @@
       "income": 14500,
       "monthlyExpenses": 41900,
       "numberOfKids": 0,
-      "mortgage": 497400,
-      "hasStudentLoans": false
+      "homeMortgage": 497400,
+      "hasStudentLoan": false
     },
     {
       "name": "Caleb Brekke",
@@ -5952,8 +5952,8 @@
       "income": 3600,
       "monthlyExpenses": 41300,
       "numberOfKids": 0,
-      "mortgage": 8182300,
-      "hasStudentLoans": false
+      "homeMortgage": 8182300,
+      "hasStudentLoan": false
     },
     {
       "name": "Tami Rice",
@@ -5968,8 +5968,8 @@
       "income": 32900,
       "monthlyExpenses": 11100,
       "numberOfKids": 5,
-      "mortgage": 6557000,
-      "hasStudentLoans": false
+      "homeMortgage": 6557000,
+      "hasStudentLoan": false
     },
     {
       "name": "Deanna Corwin",
@@ -5984,8 +5984,8 @@
       "income": 69900,
       "monthlyExpenses": 20700,
       "numberOfKids": 0,
-      "mortgage": 5030400,
-      "hasStudentLoans": true
+      "homeMortgage": 5030400,
+      "hasStudentLoan": true
     },
     {
       "name": "Miriam Lebsack",
@@ -6000,8 +6000,8 @@
       "income": 38900,
       "monthlyExpenses": 21500,
       "numberOfKids": 0,
-      "mortgage": 7895700,
-      "hasStudentLoans": true
+      "homeMortgage": 7895700,
+      "hasStudentLoan": true
     },
     {
       "name": "Eduardo Kuhlman",
@@ -6016,8 +6016,8 @@
       "income": 40400,
       "monthlyExpenses": 5000,
       "numberOfKids": 0,
-      "mortgage": 9009000,
-      "hasStudentLoans": false
+      "homeMortgage": 9009000,
+      "hasStudentLoan": false
     },
     {
       "name": "Jeremiah Rohan",
@@ -6032,8 +6032,8 @@
       "income": 29400,
       "monthlyExpenses": 10200,
       "numberOfKids": 4,
-      "mortgage": 9842700,
-      "hasStudentLoans": false
+      "homeMortgage": 9842700,
+      "hasStudentLoan": false
     },
     {
       "name": "Phil Cummerata",
@@ -6048,8 +6048,8 @@
       "income": 47500,
       "monthlyExpenses": 6000,
       "numberOfKids": 0,
-      "mortgage": 7440400,
-      "hasStudentLoans": false
+      "homeMortgage": 7440400,
+      "hasStudentLoan": false
     },
     {
       "name": "Susan Senger",
@@ -6064,8 +6064,8 @@
       "income": 30300,
       "monthlyExpenses": 23400,
       "numberOfKids": 4,
-      "mortgage": 1551900,
-      "hasStudentLoans": false
+      "homeMortgage": 1551900,
+      "hasStudentLoan": false
     },
     {
       "name": "Joanne Johnston",
@@ -6080,8 +6080,8 @@
       "income": 2400,
       "monthlyExpenses": 32500,
       "numberOfKids": 0,
-      "mortgage": 537700,
-      "hasStudentLoans": false
+      "homeMortgage": 537700,
+      "hasStudentLoan": false
     },
     {
       "name": "Sandy Monahan",
@@ -6096,8 +6096,8 @@
       "income": 34500,
       "monthlyExpenses": 117300,
       "numberOfKids": 0,
-      "mortgage": 2136300,
-      "hasStudentLoans": false
+      "homeMortgage": 2136300,
+      "hasStudentLoan": false
     },
     {
       "name": "Rene Hoeger",
@@ -6112,8 +6112,8 @@
       "income": 48500,
       "monthlyExpenses": 123200,
       "numberOfKids": 1,
-      "mortgage": 1117800,
-      "hasStudentLoans": false
+      "homeMortgage": 1117800,
+      "hasStudentLoan": false
     },
     {
       "name": "Byron Koch",
@@ -6128,8 +6128,8 @@
       "income": 4300,
       "monthlyExpenses": 21800,
       "numberOfKids": 5,
-      "mortgage": 6871500,
-      "hasStudentLoans": true
+      "homeMortgage": 6871500,
+      "hasStudentLoan": true
     },
     {
       "name": "Sandy Dickinson",
@@ -6144,8 +6144,8 @@
       "income": 95900,
       "monthlyExpenses": 23000,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Zachary Klocko",
@@ -6160,8 +6160,8 @@
       "income": 2500,
       "monthlyExpenses": 109100,
       "numberOfKids": 0,
-      "mortgage": 438700,
-      "hasStudentLoans": false
+      "homeMortgage": 438700,
+      "hasStudentLoan": false
     },
     {
       "name": "Clarence West",
@@ -6176,8 +6176,8 @@
       "income": 44300,
       "monthlyExpenses": 10000,
       "numberOfKids": 0,
-      "mortgage": 950900,
-      "hasStudentLoans": false
+      "homeMortgage": 950900,
+      "hasStudentLoan": false
     },
     {
       "name": "Erin Tremblay",
@@ -6192,8 +6192,8 @@
       "income": 74000,
       "monthlyExpenses": 25000,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Alejandro Cartwright",
@@ -6208,8 +6208,8 @@
       "income": 23100,
       "monthlyExpenses": 28000,
       "numberOfKids": 0,
-      "mortgage": 4554700,
-      "hasStudentLoans": false
+      "homeMortgage": 4554700,
+      "hasStudentLoan": false
     },
     {
       "name": "Irvin Murray",
@@ -6224,8 +6224,8 @@
       "income": 82200,
       "monthlyExpenses": 10500,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Lydia Labadie",
@@ -6240,8 +6240,8 @@
       "income": 27800,
       "monthlyExpenses": 148800,
       "numberOfKids": 3,
-      "mortgage": 9752300,
-      "hasStudentLoans": false
+      "homeMortgage": 9752300,
+      "hasStudentLoan": false
     },
     {
       "name": "Mary Schaefer",
@@ -6256,8 +6256,8 @@
       "income": 31700,
       "monthlyExpenses": 124600,
       "numberOfKids": 0,
-      "mortgage": 6339200,
-      "hasStudentLoans": true
+      "homeMortgage": 6339200,
+      "hasStudentLoan": true
     },
     {
       "name": "Rudy D\u0027Amore",
@@ -6272,8 +6272,8 @@
       "income": 50500,
       "monthlyExpenses": 8000,
       "numberOfKids": 0,
-      "mortgage": 815800,
-      "hasStudentLoans": true
+      "homeMortgage": 815800,
+      "hasStudentLoan": true
     },
     {
       "name": "Traci Wilderman",
@@ -6288,8 +6288,8 @@
       "income": 7500,
       "monthlyExpenses": 135600,
       "numberOfKids": 0,
-      "mortgage": 6778700,
-      "hasStudentLoans": false
+      "homeMortgage": 6778700,
+      "hasStudentLoan": false
     },
     {
       "name": "Yvonne Torp",
@@ -6304,8 +6304,8 @@
       "income": 1000,
       "monthlyExpenses": 68000,
       "numberOfKids": 0,
-      "mortgage": 4719200,
-      "hasStudentLoans": true
+      "homeMortgage": 4719200,
+      "hasStudentLoan": true
     },
     {
       "name": "Peter Koss",
@@ -6320,8 +6320,8 @@
       "income": 36700,
       "monthlyExpenses": 1600,
       "numberOfKids": 5,
-      "mortgage": 5724800,
-      "hasStudentLoans": false
+      "homeMortgage": 5724800,
+      "hasStudentLoan": false
     },
     {
       "name": "Claude Rohan",
@@ -6336,8 +6336,8 @@
       "income": 44700,
       "monthlyExpenses": 2600,
       "numberOfKids": 2,
-      "mortgage": 1335600,
-      "hasStudentLoans": true
+      "homeMortgage": 1335600,
+      "hasStudentLoan": true
     },
     {
       "name": "Daisy Wuckert",
@@ -6352,8 +6352,8 @@
       "income": 43500,
       "monthlyExpenses": 18000,
       "numberOfKids": 0,
-      "mortgage": 96300,
-      "hasStudentLoans": false
+      "homeMortgage": 96300,
+      "hasStudentLoan": false
     },
     {
       "name": "Elena Crona",
@@ -6368,8 +6368,8 @@
       "income": 39300,
       "monthlyExpenses": 9800,
       "numberOfKids": 2,
-      "mortgage": 8636200,
-      "hasStudentLoans": true
+      "homeMortgage": 8636200,
+      "hasStudentLoan": true
     },
     {
       "name": "Fannie Macejkovic",
@@ -6384,8 +6384,8 @@
       "income": 36900,
       "monthlyExpenses": 23900,
       "numberOfKids": 1,
-      "mortgage": 8547000,
-      "hasStudentLoans": true
+      "homeMortgage": 8547000,
+      "hasStudentLoan": true
     },
     {
       "name": "Ralph Will",
@@ -6400,8 +6400,8 @@
       "income": 28900,
       "monthlyExpenses": 1400,
       "numberOfKids": 0,
-      "mortgage": 6648700,
-      "hasStudentLoans": false
+      "homeMortgage": 6648700,
+      "hasStudentLoan": false
     },
     {
       "name": "Luther MacGyver",
@@ -6416,8 +6416,8 @@
       "income": 2400,
       "monthlyExpenses": 107800,
       "numberOfKids": 0,
-      "mortgage": 7372400,
-      "hasStudentLoans": true
+      "homeMortgage": 7372400,
+      "hasStudentLoan": true
     },
     {
       "name": "Nathan Murazik",
@@ -6432,8 +6432,8 @@
       "income": 47200,
       "monthlyExpenses": 183200,
       "numberOfKids": 0,
-      "mortgage": 9218200,
-      "hasStudentLoans": false
+      "homeMortgage": 9218200,
+      "hasStudentLoan": false
     },
     {
       "name": "Jacqueline Pouros",
@@ -6448,8 +6448,8 @@
       "income": 19500,
       "monthlyExpenses": 7000,
       "numberOfKids": 4,
-      "mortgage": 616800,
-      "hasStudentLoans": true
+      "homeMortgage": 616800,
+      "hasStudentLoan": true
     },
     {
       "name": "Mario Ledner",
@@ -6464,8 +6464,8 @@
       "income": 60600,
       "monthlyExpenses": 13000,
       "numberOfKids": 2,
-      "mortgage": 77200,
-      "hasStudentLoans": false
+      "homeMortgage": 77200,
+      "hasStudentLoan": false
     },
     {
       "name": "Rolando Stamm",
@@ -6480,8 +6480,8 @@
       "income": 59000,
       "monthlyExpenses": 29200,
       "numberOfKids": 1,
-      "mortgage": 1777400,
-      "hasStudentLoans": false
+      "homeMortgage": 1777400,
+      "hasStudentLoan": false
     },
     {
       "name": "Craig Stamm",
@@ -6496,8 +6496,8 @@
       "income": 34600,
       "monthlyExpenses": 8600,
       "numberOfKids": 2,
-      "mortgage": 5744500,
-      "hasStudentLoans": true
+      "homeMortgage": 5744500,
+      "hasStudentLoan": true
     },
     {
       "name": "Jesus Hilpert",
@@ -6512,8 +6512,8 @@
       "income": 35000,
       "monthlyExpenses": 8000,
       "numberOfKids": 1,
-      "mortgage": 4676100,
-      "hasStudentLoans": false
+      "homeMortgage": 4676100,
+      "hasStudentLoan": false
     },
     {
       "name": "Colin Reichert",
@@ -6528,8 +6528,8 @@
       "income": 10900,
       "monthlyExpenses": 162300,
       "numberOfKids": 4,
-      "mortgage": 2308400,
-      "hasStudentLoans": false
+      "homeMortgage": 2308400,
+      "hasStudentLoan": false
     },
     {
       "name": "Ada Tromp",
@@ -6544,8 +6544,8 @@
       "income": 68000,
       "monthlyExpenses": 28200,
       "numberOfKids": 3,
-      "mortgage": 336800,
-      "hasStudentLoans": false
+      "homeMortgage": 336800,
+      "hasStudentLoan": false
     },
     {
       "name": "Vera Howe",
@@ -6560,8 +6560,8 @@
       "income": 2700,
       "monthlyExpenses": 54800,
       "numberOfKids": 0,
-      "mortgage": 1220100,
-      "hasStudentLoans": false
+      "homeMortgage": 1220100,
+      "hasStudentLoan": false
     },
     {
       "name": "Marion Will",
@@ -6576,8 +6576,8 @@
       "income": 70700,
       "monthlyExpenses": 19700,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Daryl Schaden",
@@ -6592,8 +6592,8 @@
       "income": 3900,
       "monthlyExpenses": 99500,
       "numberOfKids": 3,
-      "mortgage": 770400,
-      "hasStudentLoans": true
+      "homeMortgage": 770400,
+      "hasStudentLoan": true
     },
     {
       "name": "Nathaniel Walker",
@@ -6608,8 +6608,8 @@
       "income": 4300,
       "monthlyExpenses": 65800,
       "numberOfKids": 3,
-      "mortgage": 9223300,
-      "hasStudentLoans": false
+      "homeMortgage": 9223300,
+      "hasStudentLoan": false
     },
     {
       "name": "Marion Harvey",
@@ -6624,8 +6624,8 @@
       "income": 90100,
       "monthlyExpenses": 12000,
       "numberOfKids": 2,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Tina Jacobs",
@@ -6640,8 +6640,8 @@
       "income": 81500,
       "monthlyExpenses": 7600,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Aaron Muller",
@@ -6656,8 +6656,8 @@
       "income": 38700,
       "monthlyExpenses": 4400,
       "numberOfKids": 2,
-      "mortgage": 1038500,
-      "hasStudentLoans": true
+      "homeMortgage": 1038500,
+      "hasStudentLoan": true
     },
     {
       "name": "Rodney Flatley",
@@ -6672,8 +6672,8 @@
       "income": 3600,
       "monthlyExpenses": 38700,
       "numberOfKids": 0,
-      "mortgage": 430700,
-      "hasStudentLoans": true
+      "homeMortgage": 430700,
+      "hasStudentLoan": true
     },
     {
       "name": "Sheila Stoltenberg",
@@ -6688,8 +6688,8 @@
       "income": 3800,
       "monthlyExpenses": 50500,
       "numberOfKids": 0,
-      "mortgage": 2484000,
-      "hasStudentLoans": true
+      "homeMortgage": 2484000,
+      "hasStudentLoan": true
     },
     {
       "name": "Doreen Muller",
@@ -6704,8 +6704,8 @@
       "income": 46800,
       "monthlyExpenses": 4400,
       "numberOfKids": 1,
-      "mortgage": 1817300,
-      "hasStudentLoans": false
+      "homeMortgage": 1817300,
+      "hasStudentLoan": false
     },
     {
       "name": "Rebecca Thompson",
@@ -6720,8 +6720,8 @@
       "income": 2100,
       "monthlyExpenses": 32200,
       "numberOfKids": 1,
-      "mortgage": 157000,
-      "hasStudentLoans": false
+      "homeMortgage": 157000,
+      "hasStudentLoan": false
     },
     {
       "name": "Phillip Beatty",
@@ -6736,8 +6736,8 @@
       "income": 34300,
       "monthlyExpenses": 68100,
       "numberOfKids": 0,
-      "mortgage": 8456400,
-      "hasStudentLoans": true
+      "homeMortgage": 8456400,
+      "hasStudentLoan": true
     },
     {
       "name": "Floyd Parisian",
@@ -6752,8 +6752,8 @@
       "income": 67900,
       "monthlyExpenses": 15200,
       "numberOfKids": 1,
-      "mortgage": 9521200,
-      "hasStudentLoans": false
+      "homeMortgage": 9521200,
+      "hasStudentLoan": false
     },
     {
       "name": "Margaret Barrows",
@@ -6768,8 +6768,8 @@
       "income": 9300,
       "monthlyExpenses": 169700,
       "numberOfKids": 2,
-      "mortgage": 3681400,
-      "hasStudentLoans": false
+      "homeMortgage": 3681400,
+      "hasStudentLoan": false
     },
     {
       "name": "Natalie Kshlerin",
@@ -6784,8 +6784,8 @@
       "income": 1600,
       "monthlyExpenses": 74400,
       "numberOfKids": 1,
-      "mortgage": 1705300,
-      "hasStudentLoans": false
+      "homeMortgage": 1705300,
+      "hasStudentLoan": false
     },
     {
       "name": "Andre Yundt",
@@ -6800,8 +6800,8 @@
       "income": 1400,
       "monthlyExpenses": 66500,
       "numberOfKids": 3,
-      "mortgage": 3957800,
-      "hasStudentLoans": false
+      "homeMortgage": 3957800,
+      "hasStudentLoan": false
     },
     {
       "name": "Patricia Zulauf",
@@ -6816,8 +6816,8 @@
       "income": 79300,
       "monthlyExpenses": 13200,
       "numberOfKids": 1,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Colleen O\u0027Kon",
@@ -6832,8 +6832,8 @@
       "income": 2900,
       "monthlyExpenses": 78300,
       "numberOfKids": 3,
-      "mortgage": 2780200,
-      "hasStudentLoans": false
+      "homeMortgage": 2780200,
+      "hasStudentLoan": false
     },
     {
       "name": "Emma Kuhn",
@@ -6848,8 +6848,8 @@
       "income": 88300,
       "monthlyExpenses": 12800,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Gilbert Fahey",
@@ -6864,8 +6864,8 @@
       "income": 42600,
       "monthlyExpenses": 126200,
       "numberOfKids": 0,
-      "mortgage": 8915500,
-      "hasStudentLoans": true
+      "homeMortgage": 8915500,
+      "hasStudentLoan": true
     },
     {
       "name": "Isabel Zboncak",
@@ -6880,8 +6880,8 @@
       "income": 57100,
       "monthlyExpenses": 19400,
       "numberOfKids": 1,
-      "mortgage": 5613600,
-      "hasStudentLoans": false
+      "homeMortgage": 5613600,
+      "hasStudentLoan": false
     },
     {
       "name": "Mable Runte",
@@ -6896,8 +6896,8 @@
       "income": 46700,
       "monthlyExpenses": 65600,
       "numberOfKids": 1,
-      "mortgage": 8174200,
-      "hasStudentLoans": false
+      "homeMortgage": 8174200,
+      "hasStudentLoan": false
     },
     {
       "name": "Juana Wiegand",
@@ -6912,8 +6912,8 @@
       "income": 45900,
       "monthlyExpenses": 7200,
       "numberOfKids": 1,
-      "mortgage": 1493400,
-      "hasStudentLoans": false
+      "homeMortgage": 1493400,
+      "hasStudentLoan": false
     },
     {
       "name": "Jenny DuBuque",
@@ -6928,8 +6928,8 @@
       "income": 2200,
       "monthlyExpenses": 110500,
       "numberOfKids": 2,
-      "mortgage": 1371600,
-      "hasStudentLoans": true
+      "homeMortgage": 1371600,
+      "hasStudentLoan": true
     },
     {
       "name": "Grady Schmidt",
@@ -6944,8 +6944,8 @@
       "income": 4300,
       "monthlyExpenses": 78100,
       "numberOfKids": 1,
-      "mortgage": 8915500,
-      "hasStudentLoans": true
+      "homeMortgage": 8915500,
+      "hasStudentLoan": true
     },
     {
       "name": "Velma Dooley",
@@ -6960,8 +6960,8 @@
       "income": 4700,
       "monthlyExpenses": 31600,
       "numberOfKids": 3,
-      "mortgage": 594600,
-      "hasStudentLoans": true
+      "homeMortgage": 594600,
+      "hasStudentLoan": true
     },
     {
       "name": "Mark Swift",
@@ -6976,8 +6976,8 @@
       "income": 4000,
       "monthlyExpenses": 85100,
       "numberOfKids": 0,
-      "mortgage": 8568900,
-      "hasStudentLoans": false
+      "homeMortgage": 8568900,
+      "hasStudentLoan": false
     },
     {
       "name": "Gail Cassin",
@@ -6992,8 +6992,8 @@
       "income": 80400,
       "monthlyExpenses": 20800,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Yvonne Schinner",
@@ -7008,8 +7008,8 @@
       "income": 3000,
       "monthlyExpenses": 101700,
       "numberOfKids": 0,
-      "mortgage": 3870900,
-      "hasStudentLoans": false
+      "homeMortgage": 3870900,
+      "hasStudentLoan": false
     },
     {
       "name": "Ernestine Schaden",
@@ -7024,8 +7024,8 @@
       "income": 29100,
       "monthlyExpenses": 8400,
       "numberOfKids": 0,
-      "mortgage": 4430200,
-      "hasStudentLoans": true
+      "homeMortgage": 4430200,
+      "hasStudentLoan": true
     },
     {
       "name": "Leslie Tillman",
@@ -7040,8 +7040,8 @@
       "income": 28700,
       "monthlyExpenses": 13700,
       "numberOfKids": 1,
-      "mortgage": 1619800,
-      "hasStudentLoans": true
+      "homeMortgage": 1619800,
+      "hasStudentLoan": true
     },
     {
       "name": "Robert Hodkiewicz",
@@ -7056,8 +7056,8 @@
       "income": 40500,
       "monthlyExpenses": 10100,
       "numberOfKids": 0,
-      "mortgage": 4608300,
-      "hasStudentLoans": true
+      "homeMortgage": 4608300,
+      "hasStudentLoan": true
     },
     {
       "name": "Alexis Stroman",
@@ -7072,8 +7072,8 @@
       "income": 21900,
       "monthlyExpenses": 17300,
       "numberOfKids": 0,
-      "mortgage": 3792600,
-      "hasStudentLoans": true
+      "homeMortgage": 3792600,
+      "hasStudentLoan": true
     },
     {
       "name": "Melvin Cummings",
@@ -7088,8 +7088,8 @@
       "income": 56400,
       "monthlyExpenses": 20900,
       "numberOfKids": 1,
-      "mortgage": 465100,
-      "hasStudentLoans": false
+      "homeMortgage": 465100,
+      "hasStudentLoan": false
     },
     {
       "name": "Clarence Monahan",
@@ -7104,8 +7104,8 @@
       "income": 50000,
       "monthlyExpenses": 20000,
       "numberOfKids": 3,
-      "mortgage": 2557800,
-      "hasStudentLoans": false
+      "homeMortgage": 2557800,
+      "hasStudentLoan": false
     },
     {
       "name": "Hugo Donnelly",
@@ -7120,8 +7120,8 @@
       "income": 2500,
       "monthlyExpenses": 69300,
       "numberOfKids": 1,
-      "mortgage": 464500,
-      "hasStudentLoans": true
+      "homeMortgage": 464500,
+      "hasStudentLoan": true
     },
     {
       "name": "Alvin Waelchi",
@@ -7136,8 +7136,8 @@
       "income": 45300,
       "monthlyExpenses": 17100,
       "numberOfKids": 1,
-      "mortgage": 8467500,
-      "hasStudentLoans": false
+      "homeMortgage": 8467500,
+      "hasStudentLoan": false
     },
     {
       "name": "Jenna Anderson",
@@ -7152,8 +7152,8 @@
       "income": 1200,
       "monthlyExpenses": 16500,
       "numberOfKids": 0,
-      "mortgage": 5718500,
-      "hasStudentLoans": false
+      "homeMortgage": 5718500,
+      "hasStudentLoan": false
     },
     {
       "name": "Lisa Schultz",
@@ -7168,8 +7168,8 @@
       "income": 84500,
       "monthlyExpenses": 21500,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Lindsay Greenholt",
@@ -7184,8 +7184,8 @@
       "income": 33000,
       "monthlyExpenses": 6400,
       "numberOfKids": 0,
-      "mortgage": 4703700,
-      "hasStudentLoans": true
+      "homeMortgage": 4703700,
+      "hasStudentLoan": true
     },
     {
       "name": "Jamie Bartell",
@@ -7200,8 +7200,8 @@
       "income": 10600,
       "monthlyExpenses": 29500,
       "numberOfKids": 1,
-      "mortgage": 142800,
-      "hasStudentLoans": true
+      "homeMortgage": 142800,
+      "hasStudentLoan": true
     },
     {
       "name": "Carolyn Stiedemann",
@@ -7216,8 +7216,8 @@
       "income": 19700,
       "monthlyExpenses": 9900,
       "numberOfKids": 2,
-      "mortgage": 8219900,
-      "hasStudentLoans": false
+      "homeMortgage": 8219900,
+      "hasStudentLoan": false
     },
     {
       "name": "Jody Cruickshank",
@@ -7232,8 +7232,8 @@
       "income": 59000,
       "monthlyExpenses": 2700,
       "numberOfKids": 1,
-      "mortgage": 9107000,
-      "hasStudentLoans": true
+      "homeMortgage": 9107000,
+      "hasStudentLoan": true
     },
     {
       "name": "Beulah Rath",
@@ -7248,8 +7248,8 @@
       "income": 69900,
       "monthlyExpenses": 19300,
       "numberOfKids": 2,
-      "mortgage": 3667100,
-      "hasStudentLoans": false
+      "homeMortgage": 3667100,
+      "hasStudentLoan": false
     },
     {
       "name": "Audrey Mertz",
@@ -7264,8 +7264,8 @@
       "income": 5500,
       "monthlyExpenses": 193300,
       "numberOfKids": 1,
-      "mortgage": 7357700,
-      "hasStudentLoans": false
+      "homeMortgage": 7357700,
+      "hasStudentLoan": false
     },
     {
       "name": "Bryan Stroman",
@@ -7280,8 +7280,8 @@
       "income": 52100,
       "monthlyExpenses": 5500,
       "numberOfKids": 0,
-      "mortgage": 8543500,
-      "hasStudentLoans": true
+      "homeMortgage": 8543500,
+      "hasStudentLoan": true
     },
     {
       "name": "Mable Feil",
@@ -7296,8 +7296,8 @@
       "income": 99000,
       "monthlyExpenses": 13600,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Ada Adams",
@@ -7312,8 +7312,8 @@
       "income": 9800,
       "monthlyExpenses": 21100,
       "numberOfKids": 0,
-      "mortgage": 4561700,
-      "hasStudentLoans": false
+      "homeMortgage": 4561700,
+      "hasStudentLoan": false
     },
     {
       "name": "Steven Metz",
@@ -7328,8 +7328,8 @@
       "income": 14000,
       "monthlyExpenses": 27800,
       "numberOfKids": 1,
-      "mortgage": 5290800,
-      "hasStudentLoans": false
+      "homeMortgage": 5290800,
+      "hasStudentLoan": false
     },
     {
       "name": "Luis Johns",
@@ -7344,8 +7344,8 @@
       "income": 18600,
       "monthlyExpenses": 29700,
       "numberOfKids": 4,
-      "mortgage": 8856000,
-      "hasStudentLoans": true
+      "homeMortgage": 8856000,
+      "hasStudentLoan": true
     },
     {
       "name": "Roger Rutherford",
@@ -7360,8 +7360,8 @@
       "income": 28500,
       "monthlyExpenses": 18500,
       "numberOfKids": 4,
-      "mortgage": 962100,
-      "hasStudentLoans": false
+      "homeMortgage": 962100,
+      "hasStudentLoan": false
     },
     {
       "name": "Meredith Zemlak",
@@ -7376,8 +7376,8 @@
       "income": 31500,
       "monthlyExpenses": 6600,
       "numberOfKids": 0,
-      "mortgage": 2743600,
-      "hasStudentLoans": false
+      "homeMortgage": 2743600,
+      "hasStudentLoan": false
     },
     {
       "name": "Darnell Yundt",
@@ -7392,8 +7392,8 @@
       "income": 60000,
       "monthlyExpenses": 22000,
       "numberOfKids": 0,
-      "mortgage": 1543200,
-      "hasStudentLoans": false
+      "homeMortgage": 1543200,
+      "hasStudentLoan": false
     },
     {
       "name": "Gary Rowe",
@@ -7408,8 +7408,8 @@
       "income": 10200,
       "monthlyExpenses": 19300,
       "numberOfKids": 1,
-      "mortgage": 6513600,
-      "hasStudentLoans": false
+      "homeMortgage": 6513600,
+      "hasStudentLoan": false
     },
     {
       "name": "Marian Larkin",
@@ -7424,8 +7424,8 @@
       "income": 34000,
       "monthlyExpenses": 16400,
       "numberOfKids": 0,
-      "mortgage": 9367500,
-      "hasStudentLoans": false
+      "homeMortgage": 9367500,
+      "hasStudentLoan": false
     },
     {
       "name": "Robin Casper",
@@ -7440,8 +7440,8 @@
       "income": 3400,
       "monthlyExpenses": 75400,
       "numberOfKids": 0,
-      "mortgage": 9809000,
-      "hasStudentLoans": true
+      "homeMortgage": 9809000,
+      "hasStudentLoan": true
     },
     {
       "name": "Lillian Mann",
@@ -7456,8 +7456,8 @@
       "income": 33500,
       "monthlyExpenses": 9400,
       "numberOfKids": 4,
-      "mortgage": 645700,
-      "hasStudentLoans": true
+      "homeMortgage": 645700,
+      "hasStudentLoan": true
     },
     {
       "name": "Jaime Haley",
@@ -7472,8 +7472,8 @@
       "income": 94600,
       "monthlyExpenses": 27300,
       "numberOfKids": 3,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Raul Shanahan",
@@ -7488,8 +7488,8 @@
       "income": 30500,
       "monthlyExpenses": 195400,
       "numberOfKids": 3,
-      "mortgage": 9860100,
-      "hasStudentLoans": false
+      "homeMortgage": 9860100,
+      "hasStudentLoan": false
     },
     {
       "name": "Lillie Runolfsson",
@@ -7504,8 +7504,8 @@
       "income": 9800,
       "monthlyExpenses": 170300,
       "numberOfKids": 0,
-      "mortgage": 7668000,
-      "hasStudentLoans": true
+      "homeMortgage": 7668000,
+      "hasStudentLoan": true
     },
     {
       "name": "Delores Maggio",
@@ -7520,8 +7520,8 @@
       "income": 37900,
       "monthlyExpenses": 136100,
       "numberOfKids": 2,
-      "mortgage": 6142000,
-      "hasStudentLoans": true
+      "homeMortgage": 6142000,
+      "hasStudentLoan": true
     },
     {
       "name": "Daryl Bauch",
@@ -7536,8 +7536,8 @@
       "income": 2600,
       "monthlyExpenses": 114900,
       "numberOfKids": 1,
-      "mortgage": 5450500,
-      "hasStudentLoans": false
+      "homeMortgage": 5450500,
+      "hasStudentLoan": false
     },
     {
       "name": "Aubrey Zieme",
@@ -7552,8 +7552,8 @@
       "income": 78600,
       "monthlyExpenses": 17400,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Lori Krajcik",
@@ -7568,8 +7568,8 @@
       "income": 6900,
       "monthlyExpenses": 78700,
       "numberOfKids": 1,
-      "mortgage": 8901600,
-      "hasStudentLoans": false
+      "homeMortgage": 8901600,
+      "hasStudentLoan": false
     },
     {
       "name": "Kristen Prosacco",
@@ -7584,8 +7584,8 @@
       "income": 71300,
       "monthlyExpenses": 19300,
       "numberOfKids": 4,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Clara Kirlin",
@@ -7600,8 +7600,8 @@
       "income": 1600,
       "monthlyExpenses": 55800,
       "numberOfKids": 1,
-      "mortgage": 1542200,
-      "hasStudentLoans": true
+      "homeMortgage": 1542200,
+      "hasStudentLoan": true
     },
     {
       "name": "Marcia Hoeger",
@@ -7616,8 +7616,8 @@
       "income": 57200,
       "monthlyExpenses": 7400,
       "numberOfKids": 0,
-      "mortgage": 5103600,
-      "hasStudentLoans": true
+      "homeMortgage": 5103600,
+      "hasStudentLoan": true
     },
     {
       "name": "Meghan Hermann",
@@ -7632,8 +7632,8 @@
       "income": 58500,
       "monthlyExpenses": 25100,
       "numberOfKids": 4,
-      "mortgage": 3378300,
-      "hasStudentLoans": false
+      "homeMortgage": 3378300,
+      "hasStudentLoan": false
     },
     {
       "name": "Alexander Jones",
@@ -7648,8 +7648,8 @@
       "income": 49400,
       "monthlyExpenses": 21400,
       "numberOfKids": 1,
-      "mortgage": 2540800,
-      "hasStudentLoans": false
+      "homeMortgage": 2540800,
+      "hasStudentLoan": false
     },
     {
       "name": "Cecelia Bashirian",
@@ -7664,8 +7664,8 @@
       "income": 94700,
       "monthlyExpenses": 20200,
       "numberOfKids": 5,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Marty Bosco",
@@ -7680,8 +7680,8 @@
       "income": 33600,
       "monthlyExpenses": 16800,
       "numberOfKids": 3,
-      "mortgage": 5815600,
-      "hasStudentLoans": true
+      "homeMortgage": 5815600,
+      "hasStudentLoan": true
     },
     {
       "name": "Kristine Hammes",
@@ -7696,8 +7696,8 @@
       "income": 12500,
       "monthlyExpenses": 28900,
       "numberOfKids": 0,
-      "mortgage": 6616600,
-      "hasStudentLoans": true
+      "homeMortgage": 6616600,
+      "hasStudentLoan": true
     },
     {
       "name": "Armando Schumm",
@@ -7712,8 +7712,8 @@
       "income": 36900,
       "monthlyExpenses": 12800,
       "numberOfKids": 0,
-      "mortgage": 9605400,
-      "hasStudentLoans": true
+      "homeMortgage": 9605400,
+      "hasStudentLoan": true
     },
     {
       "name": "Edward Weimann",
@@ -7728,8 +7728,8 @@
       "income": 16300,
       "monthlyExpenses": 159300,
       "numberOfKids": 1,
-      "mortgage": 5175000,
-      "hasStudentLoans": false
+      "homeMortgage": 5175000,
+      "hasStudentLoan": false
     },
     {
       "name": "Beulah Senger",
@@ -7744,8 +7744,8 @@
       "income": 17500,
       "monthlyExpenses": 8200,
       "numberOfKids": 0,
-      "mortgage": 1503300,
-      "hasStudentLoans": false
+      "homeMortgage": 1503300,
+      "hasStudentLoan": false
     },
     {
       "name": "Desiree Dickinson",
@@ -7760,8 +7760,8 @@
       "income": 84800,
       "monthlyExpenses": 19700,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": false
+      "homeMortgage": 0,
+      "hasStudentLoan": false
     },
     {
       "name": "Christine Schmitt",
@@ -7776,8 +7776,8 @@
       "income": 7900,
       "monthlyExpenses": 129400,
       "numberOfKids": 0,
-      "mortgage": 8672200,
-      "hasStudentLoans": false
+      "homeMortgage": 8672200,
+      "hasStudentLoan": false
     },
     {
       "name": "Cody Reinger",
@@ -7792,8 +7792,8 @@
       "income": 9000,
       "monthlyExpenses": 25500,
       "numberOfKids": 0,
-      "mortgage": 3975500,
-      "hasStudentLoans": false
+      "homeMortgage": 3975500,
+      "hasStudentLoan": false
     },
     {
       "name": "Kent Goyette",
@@ -7808,8 +7808,8 @@
       "income": 86300,
       "monthlyExpenses": 17400,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Wilson Schinner",
@@ -7824,8 +7824,8 @@
       "income": 1600,
       "monthlyExpenses": 26300,
       "numberOfKids": 1,
-      "mortgage": 7465400,
-      "hasStudentLoans": true
+      "homeMortgage": 7465400,
+      "hasStudentLoan": true
     },
     {
       "name": "Doreen Veum",
@@ -7840,8 +7840,8 @@
       "income": 65400,
       "monthlyExpenses": 7700,
       "numberOfKids": 3,
-      "mortgage": 8371400,
-      "hasStudentLoans": false
+      "homeMortgage": 8371400,
+      "hasStudentLoan": false
     },
     {
       "name": "Irvin Blick",
@@ -7856,8 +7856,8 @@
       "income": 88400,
       "monthlyExpenses": 14700,
       "numberOfKids": 0,
-      "mortgage": 0,
-      "hasStudentLoans": true
+      "homeMortgage": 0,
+      "hasStudentLoan": true
     },
     {
       "name": "Jesus Murray",
@@ -7872,8 +7872,8 @@
       "income": 3900,
       "monthlyExpenses": 88600,
       "numberOfKids": 0,
-      "mortgage": 6187900,
-      "hasStudentLoans": true
+      "homeMortgage": 6187900,
+      "hasStudentLoan": true
     },
     {
       "name": "Jamie Dooley",
@@ -7888,8 +7888,8 @@
       "income": 20000,
       "monthlyExpenses": 185700,
       "numberOfKids": 1,
-      "mortgage": 381100,
-      "hasStudentLoans": true
+      "homeMortgage": 381100,
+      "hasStudentLoan": true
     },
     {
       "name": "Nathaniel Stanton",
@@ -7904,8 +7904,8 @@
       "income": 2600,
       "monthlyExpenses": 34400,
       "numberOfKids": 3,
-      "mortgage": 4690900,
-      "hasStudentLoans": false
+      "homeMortgage": 4690900,
+      "hasStudentLoan": false
     },
     {
       "name": "Gerald Collins",
@@ -7920,8 +7920,8 @@
       "income": 2500,
       "monthlyExpenses": 60300,
       "numberOfKids": 0,
-      "mortgage": 4984800,
-      "hasStudentLoans": true
+      "homeMortgage": 4984800,
+      "hasStudentLoan": true
     },
     {
       "name": "Franklin Franecki",
@@ -7936,8 +7936,8 @@
       "income": 50600,
       "monthlyExpenses": 6800,
       "numberOfKids": 3,
-      "mortgage": 769000,
-      "hasStudentLoans": true
+      "homeMortgage": 769000,
+      "hasStudentLoan": true
     },
     {
       "name": "Cassandra Walsh",
@@ -7952,8 +7952,8 @@
       "income": 4400,
       "monthlyExpenses": 76700,
       "numberOfKids": 0,
-      "mortgage": 8256100,
-      "hasStudentLoans": true
+      "homeMortgage": 8256100,
+      "hasStudentLoan": true
     },
     {
       "name": "Eloise Barton",
@@ -7968,8 +7968,8 @@
       "income": 10700,
       "monthlyExpenses": 143800,
       "numberOfKids": 1,
-      "mortgage": 7040700,
-      "hasStudentLoans": false
+      "homeMortgage": 7040700,
+      "hasStudentLoan": false
     },
     {
       "name": "Brenda McCullough",
@@ -7984,8 +7984,8 @@
       "income": 24800,
       "monthlyExpenses": 3800,
       "numberOfKids": 2,
-      "mortgage": 4121900,
-      "hasStudentLoans": true
+      "homeMortgage": 4121900,
+      "hasStudentLoan": true
     },
     {
       "name": "Randy Corwin",
@@ -8000,8 +8000,8 @@
       "income": 48300,
       "monthlyExpenses": 79800,
       "numberOfKids": 0,
-      "mortgage": 600500,
-      "hasStudentLoans": true
+      "homeMortgage": 600500,
+      "hasStudentLoan": true
     }
   ]
 }
